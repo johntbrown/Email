@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+	<!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="x-apple-disable-message-reformatting" />
+    <!--[if !mso]><!-->
+   	<link href="https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap" rel="stylesheet">
+    <!--<![endif]-->
+	<title>NYE-Abandoned Cart</title>
+	<!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+	
+
+	<style type="text/css" media="screen">
+		/* Linked Styles */
+		body { padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none }
+		a { color:#000000; text-decoration:none }
+		p { padding:0 !important; margin:0 !important } 
+		img { -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+		.mcnPreviewText { display: none !important; }
+		.text-button a { display: block; }
+		
+		
+		
+		/* Mobile styles */
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+			.mpx-20 { padding-left: 20px !important; padding-right: 20px !important; }
+			u + .body .gwfw { width:100% !important; width:100vw !important; }
+ 			.td,
+			.m-shell { width: 100% !important; min-width: 100% !important; }
+			
+			.mt-center { text-align: center !important; }
+			
+			.center { margin: 0 auto !important; }
+
+			.m-td,
+			.m-hide { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+
+			.m-block { display: block !important; }
+
+			.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+
+			.column,
+			.column-top { float: left !important; width: 100% !important; display: block !important; }
+
+			.content-spacing { width: 15px !important; }
+		}
+	</style>
+</head>
+<body class="body" style="padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="gwfw">
+		<tr>
+			<td align="center" valign="top">
+				<table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+					<tr>
+						<td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td class="img-center px-15 py-15" style="font-size:0pt; line-height:0pt; text-align:center; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 15px;"><a href="{{ event_raw.url }}" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/abdd89e651ac6c364638500bd1c3359a83d10f5eca8511569628b34c63292748b34745b4d1591304e226514965111f62af7bfb8570cf610eb787bb9064c11b3b.png" width="89" height="57" border="0" alt="" /></a></td>
+								</tr>
+								<tr>
+									<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;"><a href="{{ event_raw.url }}" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/0d1b6741e8ca5121f11d4846f8a1addcb6f6bc9e3bade88c0a122d7187bc393699c8dcfca7580e50ee7b17dcfe1a338335b63593afaf5b43c24b3b9c1d93827d.gif" width="600" height="406" border="0" alt="" /></a></td>
+								</tr>
+								<tr>
+									<td class="px-40 mpx-20 py-35" style="padding-left: 40px; padding-right: 40px; padding-top: 35px; padding-bottom: 35px;">
+										<table width="100%" border="0" cellspacing="0" cellpadding="0">
+											<tr>
+												<td class="pb-20 text-20" style="padding-bottom: 20px; color:#000000; font-family:Arial, sans-serif; font-size:20px; line-height:27px; text-align:left; min-width:auto !important;">
+													Your meals are just one click away&mdash;lock in your meals before your delivery window closes.
+												</td>
+											</tr>
+											<tr>
+												<td align="left">
+													<!-- Button -->
+													<table border="0" cellspacing="0" cellpadding="0" style="padding: 12px 0 35px;">
+														<tr>
+															<td class="text-button" style="mso-padding-alt:10px 30px; color:#000000; background:#85e5c6; font-family:'Oswald', Arial, sans-serif; text-transform:uppercase; font-size:20px; line-height:24px; text-align:center; min-width:auto !important; border-radius:4px;">
+																<a href="{{ event_raw.url }}" target="_blank" class="c-black" style="padding: 10px 30px; display: block; color:#000000; text-decoration:none;"><span class="c-black" style="color:#000000; text-decoration:none;">Order Now</span></a>
+															</td>
+														</tr>
+													</table>
+													<!-- END Button -->		<!-- WHAT’S IN YOUR CART -->
+						    <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #f7f7f7;" bgcolor="#f7f7f7" width="600" class="w100" >
+                    <tbody>
+                    <tr>
+                    <td align="center">
+                      <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 420px; width: 92%; background: #f7f7f7;" bgcolor="#f7f7f7" width="420">
+                      <tr>
+												<td class="h2 pb-10" style="font-family: 'Oswald', sans-serif; font-size:32px;line-height:30px;font-weight:700;letter-spacing: 2px;color:#1a2c1e; text-align: center; padding-top:40px;padding-bottom: 40px; text-decoration: none;" align="center">
+													YOUR MEALS ARE WAITING
+												</td>
+											</tr>{% include 'NYE_Cart_Abandonment_meal_list' %}
+										</table>
+
+											<!-- Button -->
+											<tr>
+												<td align="center" style="padding: 12px 0 30px;">
+													<table border="0" cellspacing="0" cellpadding="0">
+													<tr>
+															<td class="text-button" style="mso-padding-alt:10px 30px; color:#000000; background:#85e5c6; font-family:'Oswald', Arial, sans-serif; text-transform:uppercase; font-size:20px; line-height:24px; text-align:center; min-width:auto !important; border-radius:4px;">
+																<a href="{{ event_raw.url }}" target="_blank" class="c-black" style="padding: 10px 30px; display: block; color:#000000; text-decoration:none;"><span class="c-black" style="color:#000000; text-decoration:none;">Complete your Order Now</span></a>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+                                        </table>
+											<!-- END Button -->
+                        
+								<!-- END WHAT’S IN YOUR CART -->
+										</table>
+									</td>
+								</tr>
+								{% include 'Footer_Block' %}
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
