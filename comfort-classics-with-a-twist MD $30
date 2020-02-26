@@ -1,0 +1,708 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+      <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" /><!--[if !mso]><!-->
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" /><!--<![endif]-->
+    <title>Freshly</title>
+    <style type="text/css">/* RESET STYLES */
+      img, a img{
+        border:0;
+        height:auto;
+        outline:none;
+        text-decoration:none;
+      }
+      body{
+        height:100% !important;
+        margin:0 auto !important;
+        padding:0;
+        width:100% !important;
+      }
+      /* STYLEGUIDE */
+      /* CLIENT-SPECIFIC STYLES */
+      img{
+        -ms-interpolation-mode: bicubic;
+      }
+      /* Force IE to smoothly render resized images. */
+      #outlook a{
+        padding:0;
+      }
+      /* Force Outlook 2007 and up to provide a "view in browser" message. */
+      table{
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+      }
+      /* Remove spacing between tables in Outlook 2007 and up. */
+      .ReadMsgBody{
+        width:100%;
+      }
+      .ExternalClass{
+        width:100%;
+      }
+      /* Force Outlook.com to display emails at full width. */
+      p, a, td{
+        mso-line-height-rule:exactly;
+      }
+      /* Force Outlook to render line heights as they're originally set. */
+      p, a, td, body, table{
+        -ms-text-size-adjust:100%;
+        -webkit-text-size-adjust:100%;
+      }
+      /* Prevent Windows- and Webkit-based mobile platforms from changing declared text sizes. */
+      .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{
+        line-height:100%;
+      }
+      /* Force Outlook.com to display line heights normally. */
+      * [href]:not([style]) {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      /* control gmail default link color */
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      /* attempt to control apple data detection */
+      /* link and cta hover effects */
+      .trash{
+      }
+      /* TEMPLATE STYLES */
+      @media screen and (max-width:480px){
+        .mw100{
+          max-width:100% !important;
+        }
+        .mw75{
+          max-width:75% !important;
+        }
+        .mw55{
+          max-width:55% !important;
+        }
+        .mw50{
+          max-width:50% !important;
+        }
+        .mw60{
+          max-width:60% !important;
+        }
+        .mw35{
+          max-width:35% !important;
+        }
+        .mw25{
+          max-width:25% !important;
+        }
+        .w100{
+          width:100% !important;
+        }
+        .w92{
+          width:92%!important;
+        }
+        .w80{
+          width:80% !important;
+        }
+        .txtcntr {
+          text-align: center!important;
+        }
+        .txtlt {
+          text-align: left!important;
+        }
+        .noPadLR {
+          padding-left:0px !important;
+          padding-right:0px !important;
+        }
+        .mbl-center{
+          margin:0 auto !important;
+          float:none !important;
+        }
+        .mblPct {
+          font-size: 120px !important;
+          line-height: 120px !important;
+        }
+        .mblRise {
+          font-size:60px !important;
+          line-height:0 !important;
+          vertical-align:35px !important;
+        }
+        .mblHL {
+          font-size: 30px !important;
+        }
+        table[class=center], td[class=center] {
+          width: 100% !important;
+          height: auto !important;
+          text-align: center !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+        .hide {
+          display: none !important;
+        }
+        div[class=mobilecontent], .mobilecontent{
+          display: block !important;
+          max-height: none !important;
+        }
+      }        
+    </style>
+    <!--[if (mso)|(mso 16)]>
+<style type="text/css">
+body, table, td, a, span { font-family: Helvetica, Arial, sans-serif !important; }
+a {text-decoration: none;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+<o:officedocumentsettings>
+<o:allowpng/>
+<o:pixelsperinch>96</o:pixelsperinch>
+</o:officedocumentsettings>
+</xml><![endif]-->
+</head>
+<body style="margin:0;padding:0;background-color:#ffffff;" bgcolor="#ffffff">
+    <table cellpadding="0" cellspacing="0" border="0" style="width:100%;background-color:#ffffff;" bgcolor="#ffffff" >   
+        <tbody>
+          <tr>
+            <td style="font-size:0;">
+            </td>
+            <td align="center" valign="top" style="padding-bottom:40px;width:600px;background-color:#ffffff">
+              <table border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%;" width="600">
+              <tbody>
+              <tr>
+              <td align="center" valign="top">
+                        <!-- Preheader -->
+                      <div style="display: none; max-height: 0px; overflow: hidden;">Savor everything you love about fall, without any of the guilt.&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div>
+                      <!-- logo -->
+
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 600px; background: #ffffff;" bgcolor="#ffffff" width="600" class="w100" >
+                    <tbody>
+                    <tr>
+                    <td align="center" valign="top" style="padding: 0px 0px;  background-color: #375043;" bgcolor="#375043"><a target="_blank" title="Freshly" href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img style="border: 0px; display: block; max-width: 600px; width: 100%;" width="600" alt="Freshly" src="https://marketing-image-production.s3.amazonaws.com/uploads/10a9a6239922eaf5776a73905cff3cae4422b3d8cf22ffafc2e2f607eb9762f520bf01b01518bd7d692c99c20c87b1535c1c964cd4adfc5bd15d7e9eb40f9c42.gif" border="0" /></a>
+                    </td>
+                    </tr>
+								<tr>
+								<td align="center" valign="top" style="background-color: #375043;" bgcolor="#375043"><table align="center" border="0" cellpadding="0" cellspacing="0" width="90%"> 
+								<tr>
+                                <td align="center" valign="top" class="text" style="padding-bottom: 15px; font-family: 'Oswald', Arial, sans-serif; font-size: 72px; line-height:78px;color: #ffffff; letter-spacing: 3px;"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30""><img style="border: 0px; display: block; max-width: 360px; width: 100%; cursor: default;" width="360" src="https://marketing-image-production.s3.amazonaws.com/uploads/d6549137a126ceac89b6394955e84e712265ce361ba1bb53fcba91b8b5ebc2b3a0dbea0f26bf0e0522d5098e4ba6dfc7ad2f4b907153ba3402db7dbbd9cc0131.gif" border="0" alt="$30 Off Fall's Favorites" /></a></td>
+                                </tr>
+								
+                                <tr>
+                                <td align="center" valign="top" style="padding-bottom: 20px;"><img style="border: 0px; display: block; max-width: 360px; width: 100%;" width="360" src="https://marketing-image-production.s3.amazonaws.com/uploads/e01b8b076feef247e89814611437a9d5ff9c665ff84c81a404eb2cd7de597d8bcfe61516d859996443beea65f9dd0c28dfa32260b2427658b122b1005377eacc.jpg" border="0" /></td>
+                                </tr>
+                                <tr>
+                                <td align="center" valign="top" class="text" style="padding-bottom: 30px; font-family: 'Oswald', Arial, sans-serif; font-size: 32px; color: #ffffff">
+                                                                 
+                                    <table border="0" align="center" cellpadding="0" cellspacing="0" style="width:210px;background-color:#d8794b;border-radius:3px">
+                                    <tbody>
+                                    <tr>
+                                    <td align="center" height="45" style="height:45px">
+                                        <a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="letter-spacing: 0.8px; display:inline-block;padding:10px 20px;font-size:24px; line-height:28px;font-family:'Oswald', Helvetica, Arial,sans-serif; color:#ffffff; font-weight:normal;text-decoration:none;"><!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]--><strong>GET $30 OFF</strong><!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                                    </td>
+                                    </tr>
+                                    </tbody>
+                                    </table>
+                                </td>
+                                </tr>
+                                </table></td>
+								</tr>
+												
+					  <tr>
+								<td align="center" valign="top" style="padding: 0px 0px;  background-color: #375043;" bgcolor="#375043"><a target="_blank" title="Freshly" href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img style="border: 0px; display: block; max-width: 600px; width: 100%;" width="600" alt="Freshly" src="https://marketing-image-production.s3.amazonaws.com/uploads/b41f4575ead6199d402472721631f8aa69d09dccd1cccb675bc4ed21a6bb19c0b8e68bd6518c34801b31a9add95c7ad34e097549f03706c24d9348fb142495ab.png" border="0" /></a></td>
+					  </tr>
+                      <tr>
+                                <td align="center" bgcolor="#375043" class="text" style="background-color: #375043; padding-top:30px; padding-bottom: 20px;"><table align="center" border="0" cellpadding="0" cellspacing="0" width="80%"> 
+                                
+                                <tr>
+                                <td align="center" valign="top" style="padding-bottom: 20px;" class="text"><span style="font-family: Helvetica,Arial, sans-serif; font-size:20px;line-height:30px;font-weight:300;color:#ffffff;text-decoration: none;">If you weren't already craving roasted squash and hearty meatloaf, you will be now. Our comfort classics are nutrient-rich, gluten-free, and <nobr>better-for-you</nobr> versions of fall's homestyle&nbsp;staples.</span></td>
+                                </tr>
+                                </table>
+                                
+                                </td>
+                      </tr>
+                      </tbody>
+                    </table>
+<!--2nd area-->
+                <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%;" width="600" class="w100">
+                    <tbody>
+                    <tr>
+                    <td align="center">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #dddfdc;" bgcolor="#dddfdc" width="600">
+                        <tbody>
+                        <tr>
+                        <td align="center">
+                          <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 600px; background: #dddfdc;" bgcolor="#dddfdc" width="600" class="w100" >
+                            <tbody>
+                            <tr>
+                            <td align="center" valign="middle" bgcolor="#dddfdc" style="padding-top: 30px; padding-bottom:35px;">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%;" width="600" class="w100">     
+                                <tr>
+								<td align="center" valign="middle" class="text" style="color:#092a46; font-family:'Oswald', Arial,sans-serif; font-size:28px; text-align:center; font-weight:bold;letter-spacing: 1px;" width="230">WHAT'S&nbsp;ON&nbsp;THE&nbsp;MENU</td>
+								</tr>
+                                </table>
+                            </td>
+                            </tr>
+                            <tr>                                                
+                            <td align="center" valign="top">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #dddfdc;" bgcolor="#dddfdc" width="600" class="w100" >           
+                                <tr>
+                                <td align="center" style="background-color: #dddfdc; font-size:0;" bgcolor="#dddfdc" dir="rtl">     
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table border="0" cellspacing="0" cellpadding="0" style="width:600px;">
+                                    <tr>
+                                    <td valign="top" style="width:300px;">
+                                    <![endif]-->
+                                    <div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block;" class="mw100" dir="ltr">
+                                    <table align="center" cellpadding="0" cellspacing="0" border="0" valign="top" style="width:100%;">
+                                    <tr>
+                                    <td align="center">
+                                        <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tr>
+                                        <td align="center"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/243173ae531f506e0790e47ce27594f0e0af4de6c34572149d5f6c0bdfd710c5a738438f5bf646e7123bbc80831a93bcc880a68c528ce9c66fb4dc3dbe74a06e.png" height="250" width="250" alt="COUNTRY CHICKEN & MASH" style="display: inline-block; outline: 0; border: 0; padding:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:250px;" border="0"/></a>
+                                        </td>
+                                        </tr>
+                                        </table>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    </div><!--[if (gte mso 9)|(IE)]></td><td align="center" valign="top" style="width:300px;"><![endif]--><div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block; " class="mw100">
+                                    <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                    <tr>
+                                    <td align="center">
+                                        <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:90%;">
+                                        <tr>
+                                        <td align="center" valign="middle" style="padding-top:30px;">
+                                            <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;max-width: 280px;">
+                                            <tr>
+                                            <td align="center" valign="top"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="font-family:'Oswald', Arial,sans-serif; font-size:28px;line-height:42px;font-weight:500;color:#092a46;text-decoration: none;letter-spacing: 1px;">COUNTRY CHICKEN&nbsp;&amp;&nbsp;MASH</a></td>
+                                            </tr>
+                                            <tr>
+                                            <td align="center" valign="top" style="font-family:Helvetica,Arial, sans-serif; font-size:14px;line-height:20px; color:#023001; font-weight:100;padding-bottom: 20px;padding-top:10px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top" style="font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:28px; color:#092a46; font-weight:100;">Lower-carb cauliflower & potato mash</td>
+  </tr>
+</table></td>
+                                              </tr>
+                                            </table>
+                                        </td>
+                                        </tr>
+                                        </table>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    </div>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                                </tr>
+                                </table>
+                            <!--      Row 2      -->
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #F7F7F2;" bgcolor="#F7F7F2" width="600" class="w100" >           
+                            <tr>
+                            <td align="center">
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #ffffff;" bgcolor="#ffffff" width="600" class="w100" >     
+                            <tr>
+                            <td height="30" style="background-color: #dddfdc; font-size:0;">&nbsp;
+                            </td>
+                            </tr>
+                            <tr>
+                            <td align="center" style="background-color: #dddfdc; font-size:0;" bgcolor="#dddfdc">
+                                <!--[if (gte mso 9)|(IE)]>
+                                <table border="0" cellspacing="0" cellpadding="0" style="width:600px;">
+                                <tr>
+                                <td valign="top" style="width:300px;">
+                                <![endif]-->
+                                <div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block;" class="mw100">
+                                <table align="center" cellpadding="0" cellspacing="0" border="0" valign="top" style="width:100%;">
+                                <tr>
+                                <td align="center">
+                                    <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tr>
+                                        <td align="center"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/b431634d2a8a28d234421b05d28a3e970b0e2bd45ccea496ea63170f817be883a519dad951f523d05e3b12c0af336c9b58e32de8bc226a1d4f1747f859c133d8.png" height="250" width="250" alt="SAUSAGE BAKED OENNE" style="display: inline-block; outline: 0; border: 0; padding:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:250px;" border="0"/></a>
+                                        </td>
+                                        </tr>
+                                        </table>
+                                </td>
+                                </tr>
+                                </table>
+                                </div><!--[if (gte mso 9)|(IE)]></td><td align="center" valign="top" style="width:300px;"><![endif]--><div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block; " class="mw100">
+                                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                <tr>
+                                <td align="center" style="padding-top:30px;">
+                                    <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" style="width:90%;max-width: 280px;">
+                                            <tr>
+                                            <td align="center" valign="top"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="font-family:'Oswald', Arial,sans-serif; font-size:28px;line-height:42px;font-weight:500;color:#092a46;text-decoration: none;letter-spacing: 1px;">SAUSAGE<br />BAKED&nbsp;PENNE</a></td>
+                                            </tr>
+                                            <tr>
+                                            <td align="center" valign="top" style="font-family:Helvetica,Arial, sans-serif; font-size:14px;line-height:20px; color:#023001; font-weight:100;padding-bottom: 20px;padding-top:10px;"><table width="90%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top" style="font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:28px; color:#092a46; font-weight:100;">Made with<br /><nobr>brown-rice</nobr>&nbsp;pasta</td>
+  </tr>
+</table></td>
+                                              </tr>
+                                            </table>
+                                </td>
+                                </tr>
+                                </table>
+                                </div>
+                                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                                </tr>
+                                </table>
+                                <![endif]-->
+                            </td>
+                            </tr>
+                            </table>
+                        </td>
+                        </tr>
+                        </table>  
+                        <!--- ROW3 --->
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #ffffff;" bgcolor="#ffffff" width="600" class="w100" >           
+                                <tr>
+                            <td height="30" style="background-color: #dddfdc; font-size:0;">&nbsp;
+                            </td>
+                            </tr>
+                                <tr>
+                                <td align="center" style="background-color: #dddfdc; font-size:0;" bgcolor="#dddfdc" dir="rtl">     
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table border="0" cellspacing="0" cellpadding="0" style="width:600px;">
+                                    <tr>
+                                    <td valign="top" style="width:300px;">
+                                    <![endif]-->
+                                    <div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block;" class="mw100" dir="ltr">
+                                    <table align="center" cellpadding="0" cellspacing="0" border="0" valign="top" style="width:100%;">
+                                    <tr>
+                                    <td align="center">
+                                        <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tr>
+                                        <td align="center"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/02281c3d0711b316ae9b964c40aee3d9597a76997a7f42e872d0b3beff71ac0345bd52846980359a3372778eb03b067af86e431a136ea2668477f4230242b097.png" height="250" width="250" alt="SICILIAN-STYLE CHICKEN PARM" style="display: inline-block; outline: 0; border: 0; padding:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:250px;" border="0"/></a>
+                                        </td>
+                                        </tr>
+                                        </table>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    </div><!--[if (gte mso 9)|(IE)]></td><td align="center" valign="top" style="width:300px;"><![endif]--><div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block; " class="mw100">
+                                    <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                    <tr>
+                                    <td align="center">
+                                        <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:90%;">
+                                        <tr>
+                                        <td align="center" valign="middle" style="padding-top:30px;">
+                                            <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;max-width: 280px;">
+                                            <tr>
+                                            <td align="center" valign="top"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="font-family:'Oswald', Arial,sans-serif; font-size:28px;line-height:42px;font-weight:500;color:#092a46;text-decoration: none;letter-spacing: 1px;">SICILIAN-STYLE CHICKEN&nbsp;PARM</a></td>
+                                            </tr>
+                                            <tr>
+                                            <td align="center" valign="top" style="font-family:Helvetica,Arial, sans-serif; font-size:14px;line-height:20px; color:#023001; font-weight:100;padding-bottom: 20px;padding-top:10px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top" style="font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:28px; color:#092a46; font-weight:100;">Coated&nbsp;with<br />almond&nbsp;flour</td>
+  </tr>
+</table></td>
+                                              </tr>
+                                            </table>
+                                        </td>
+                                        </tr>
+                                        </table>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    </div>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                                </tr>
+                                <tr>
+                                <td style="background-color: #dddfdc;padding-top:30px;padding-bottom:35px;">
+                                <table border="0" align="center" cellpadding="0" cellspacing="0" style="width:210px;background-color:#d8794b;border-radius:3px">
+                                    <tbody>
+                                    <tr>
+                                    <td align="center" height="45" style="height:45px">
+                                        <a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="letter-spacing: 0.8px; display:inline-block;padding:10px 20px;font-size:24px; line-height:28px;font-family:'Oswald', Helvetica, Arial,sans-serif; color:#ffffff; font-weight:normal;text-decoration:none;"><!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]--><strong>GET $30 OFF</strong><!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                                    </td>
+                                    </tr>
+                                    </tbody>
+                                    </table>
+                                </td>
+                                </tr>
+                                </table>                                      
+                    </td>
+                    </tr>  
+                    </tbody>
+                    </table>
+                </td>
+                </tr>
+                </tbody>
+                </table>
+            </td>
+            </tr>
+            </tbody>
+            </table>
+										<table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%;" width="600">
+                    <tbody>
+                    <tr>
+                    <td align="center">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #ffffff;" bgcolor="#ffffff" width="600">
+                        <tbody>
+                        <tr>
+                        <td align="center">
+                          <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 600px; background: #f6f7f1;" bgcolor="#f6f7f1" width="600" class="w100" >
+                            <tbody>
+                            <tr>
+                            <td align="center" valign="top">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="92%">     
+                                <tr>
+                                <td class="text" style="padding-top: 40px; padding-bottom:30px; color:#033102; font-family:'Oswald', Arial,sans-serif; font-size:34px; line-height:34px; text-align:center; font-weight:bold;">
+                                HOW FRESHLY WORKS
+                                </td>
+                                </tr>
+                                </table>
+                            </td>
+                            </tr>
+                            <tr>                                                
+                            <td align="center" valign="top">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #e6e4e5;" bgcolor="#e6e4e5" width="600" class="w100" >           
+                                <tr>
+                                <td align="center" style="background-color: #f6f7f1; font-size:0;" bgcolor="#f6f7f1">     
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table border="0" cellspacing="0" cellpadding="0" style="width:600px;">
+                                    <tr>
+                                    <td valign="top" style="width:300px;">
+                                    <![endif]-->
+                                    <div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block;" class="mw100">
+                                    <table align="center" cellpadding="0" cellspacing="0" border="0" valign="top" style="width:100%;">
+                                    <tr>
+                                    <td align="center">
+                                        <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                            <tr>
+                                            <td align="center" style="padding-bottom:0px;"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/cec44754c31f135055e240db01cef0d2caf9f53d393d41d1a2c46ae2cfdccf0ec71e4883690da03d3e76fb5ebc967e56e76c533d8e4844393122518d89486cc9.gif" width="152" alt="" style="display: inline-block; outline: 0; border: 0; padding:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:152px;"/></a>
+                                        </td>
+                                            </tr>
+                                        <tr>
+                                        <td align="center">
+																																<table width="152" border="0" cellspacing="0" cellpadding="0">
+																																	<tr>
+																																		<td bgcolor="#06872b" width="1"></td>
+																																		<td><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/64ab7a9558c27eb437833accbf4541e81e92d713a5a0b3d04d968a0932f049196932808269a6d89d92290b04a5f95c5c0ab4d9a41021c8ab3f5329d3e3a044eb.gif" width="150" alt="" style="display: inline-block; outline: 0; padding:0;border:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:150px; "/></a></td>
+																																		<td bgcolor="#06872b" width="1"></td>
+																																	</tr>
+																																	<tr height="1">
+																																		<td colspan="3" bgcolor="#06872b" height="1"></td>
+																																	</tr>
+																																</table>
+																															</td>
+                                        </tr>
+                                        <tr>
+                                        <td align="center" style="padding-top:20px;">
+                                            <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:88%;max-width: 200px; line-height: 20px;">
+                                            <tr>
+                                            <td align="center"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:24px;font-weight:700;color:#033102;text-decoration: none;">Choose your meals</a></td>
+                                            </tr>
+                                            <tr>
+                                            <td align="center" valign="top" style=" font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:32px; color:#033102; font-weight:100; padding-top:5px;padding-bottom: 15px;">30+ menu of nutritious&nbsp;dishes</td>
+                                              </tr>
+                                            </table>
+                                        </td>
+                                        </tr>
+                                        </table>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    </div><!--[if (gte mso 9)|(IE)]></td><td align="center" valign="top" style="width:300px;"><![endif]--><div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block; " class="mw100">
+                                    <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                    <tr>
+                                    <td align="center">
+                                        <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                            <tr>
+                                            <td align="center" style="padding-bottom:0px;"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/a826a352df49f588b79a57c179a1e92415554307c7917cc9b86ad85dad3475f0be18efde3351364b3d94b09ed8143e20f9648f826e71fb94c8184550e704074a.gif" width="152" alt="" style="display: inline-block; outline: 0; padding:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:152px;  "/></a>
+                                        </td>
+                                            </tr>
+                                        <tr>
+                                        <td align="center">
+                                       	<table width="152" border="0" cellspacing="0" cellpadding="0">
+																																	<tr>
+																																		<td bgcolor="#06872b" width="1"></td>
+																																		<td><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/935c659f57287fa56fedc3cee81d2b06668895d02f890422dd60260d8439124f17e1228af060dc301347ebf536a0fc0e6119c85fbcd9e0b8de2999c81b6c91eb.gif" width="150" alt="" style="display: inline-block; outline: 0; border: 0; padding:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:150px; "  /></a></td>
+																																		<td bgcolor="#06872b" width="1"></td>
+																																	</tr>
+																																	<tr height="1">
+																																		<td colspan="3" bgcolor="#06872b" height="1"></td>
+																																	</tr>
+																																</table>
+                                        </td>
+                                        </tr>
+                                        <tr>
+                                        <td align="center" style="padding-top:20px;">
+                                         <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:88%;max-width: 200px; line-height: 20px;">
+                                            <tr>
+                                            <td align="center"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:24px;font-weight:700;color:#033102;text-decoration: none;">We cook & deliver</a></td>
+                                            </tr>
+                                            <tr>
+                                            <td align="center" valign="top" style=" font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:32px; color:#033102; font-weight:100; padding-top:5px;padding-bottom: 15px;">Cooked by chefs and delivered fresh</td>
+                                              </tr>
+                                            </table>
+                                        </td>
+                                        </tr>
+                                        </table>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    </div>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                                </tr>
+                                </table>
+                            <!--      Row 2      -->
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #F7F7F2;" bgcolor="#F7F7F2" width="600" class="w100" >           
+                            <tr>
+                            <td align="center">
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #e6e4e5;" bgcolor="#e6e4e5" width="600" class="w100" >     
+                            <tr>
+                            <td align="center" style="background-color: #f6f7f1; font-size:0; padding:20px 0;" bgcolor="#f6f7f1">
+                                <!--[if (gte mso 9)|(IE)]>
+                                <table border="0" cellspacing="0" cellpadding="0" style="width:600px;">
+                                <tr>
+                                <td valign="top" style="width:300px;">
+                                <![endif]-->
+                                <div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block;" class="mw100">
+                                <table align="center" cellpadding="0" cellspacing="0" border="0" valign="top" style="width:100%;">
+                                <tr>
+                                <td align="center">
+                                    <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tr>
+                                        <td align="center" style="padding-bottom:0px;"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/171046759cb2c99a477a2374ae3d4ef7fa80daaf646e0f99117882298df7b259cb1354629508c01b34f962381343d38bc2bccd2893b4da6620dc824dd2ee6fac.gif" width="152" alt="" style="display: inline-block; outline: 0; border: 0; padding:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:152px;  "/></a>
+                                        </td>
+                                        </tr>
+                                    <tr>
+                                    <td align="center">
+                                    	<table width="152" border="0" cellspacing="0" cellpadding="0">
+																																	<tr>
+																																		<td bgcolor="#06872b" width="1"></td>
+																																		<td><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/f3b0b3c6ae2f85983ca26a8eb53da3bed0792477b9b22850b3e71a6043c772b98123ca7249ec402fc9d178b3bd20ae0373b31d95e2526041af51ae784653b57f.gif" width="150" alt="" style="display: inline-block; outline: 0; padding:0;border:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:150px; "  /></a></td>
+																																		<td bgcolor="#06872b" width="1"></td>
+																																	</tr>
+																																	<tr height="1">
+																																		<td colspan="3" bgcolor="#06872b" height="1"></td>
+																																	</tr>
+																																</table>
+                                    </td>
+                                    </tr>
+                                    <tr>
+                                    <td align="center" style="padding-top:20px;">
+                                    <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:88%;max-width: 200px; line-height: 20px;">
+                                            <tr>
+                                            <td align="center"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:24px;font-weight:700;color:#033102;text-decoration: none;">You heat 'em up</a></td>
+                                            </tr>
+                                            <tr>
+                                            <td align="center" valign="top" style=" font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:32px; color:#033102; font-weight:100; padding-top:5px;padding-bottom: 15px;">Ready to eat in 3&nbsp;minutes</td>
+                                              </tr>
+                                            </table>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                </td>
+                                </tr>
+                                </table>
+                                </div><!--[if (gte mso 9)|(IE)]></td><td align="center" valign="top" style="width:300px;"><![endif]--><div style="vertical-align: top; width:100%; max-width: 300px; display: inline-block; " class="mw100">
+                                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                <tr>
+                                <td align="center">
+                                    <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                        <tr>
+                                        <td align="center" style="padding-bottom:0px;"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/2a8041472ac035c5edb13e7e67afbb4a18733a848043acf393546738771a45b238761eadd2d7f5e18bad3866c55db3528cfbb12b9bc069a6e592a27afb23fa7e.gif" width="152" alt="" style="display: inline-block; outline: 0; border: 0; padding:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:152px;"/></a>
+                                        </td>
+                                        </tr>
+                                        <tr>
+                                        <td align="center">
+                                        	<table width="152" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+												<td bgcolor="#06872b" width="1"></td>
+												<td><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/2feb5810fc6f0f68efd83f2163402ab58ecf1cf695318bd2675369c4cd1800e60b1542b5d81120c2e5781269ca9c38a4be67ab3692a5ddd8bcce099a347b147f.gif" width="150" alt="" style="display: inline-block; outline: 0; padding:0;border:0;font-family:Helvetica,Arial, sans-serif; width:100%; max-width:150px;"/></a></td>
+												<td bgcolor="#06872b" width="1"></td>
+												</tr>
+												<tr height="1">
+												<td colspan="3" bgcolor="#06872b" height="1"></td>
+												</tr>
+												</table>
+                                        </td>
+                                        </tr>
+                                        <tr>
+                                        <td align="center" style="padding-top:20px;">
+                                           
+                                             <table align="center" cellpadding="0" cellspacing="0" border="0" style="width:88%;max-width: 200px; line-height: 20px;">
+                                            <tr>
+                                            <td align="center"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:24px;font-weight:700;color:#033102;text-decoration: none;">Eat &amp; repeat</a></td>
+                                            </tr>
+                                            <tr>
+                                            <td align="center" valign="top" style=" font-family:Helvetica,Arial, sans-serif; font-size:20px;line-height:32px; color:#033102; font-weight:100; padding-top:5px;padding-bottom: 15px;">Skip a week or cancel&nbsp;anytime</td>
+                                              </tr>
+                                            </table>
+                                        </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                </tr>
+                                </table>
+                                </div>
+                                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                                </tr>
+                                </table>
+                                <![endif]-->
+                            </td>
+                            </tr>
+                            </table>
+                        </td>
+                        </tr>
+                        </table>                                        
+                    </td>
+                    </tr>  
+                    </tbody>
+                    </table>
+                </td>
+                </tr>
+                </tbody>
+                </table>
+            </td>
+            </tr>
+            </tbody>
+            </table>
+										
+                             
+        </td>
+        </tr>
+        <tr>
+        <td style="background-color: #f6f7f1;padding-top:30px;padding-bottom:35px;">
+                                <table border="0" align="center" cellpadding="0" cellspacing="0" style="width:210px;background-color:#d8794b;border-radius:3px">
+                                    <tbody>
+                                    <tr>
+                                    <td align="center" height="45" style="height:45px">
+                                        <a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-30" style="letter-spacing: 0.8px; display:inline-block;padding:10px 20px;font-size:24px; line-height:28px;font-family:'Oswald', Helvetica, Arial,sans-serif; color:#ffffff; font-weight:normal;text-decoration:none;"><!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]--><strong>GET $30 OFF</strong><!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                                    </td>
+                                    </tr>
+                                    </tbody>
+                                    </table>
+                                </td>
+        </tr>
+        <tr>
+        <td align="center">
+            {% include 'Footer_Block' %}                    
+        
+        </td>
+        </tr>
+        </tbody>
+        </table>
+        </td>
+  <td style="font-size:0;"></td>
+  </tr>
+  </tbody>
+  </table> 
+</body>
+</html>
