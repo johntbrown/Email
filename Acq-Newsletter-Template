@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+<head>
+	<!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="x-apple-disable-message-reformatting" />
+	<title>Newsletter Template</title>
+	<!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+	
+
+	<!--[if !mso]><!-->
+	<style type="text/css" media="all">
+		@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i|Roboto:400,400i,700,700i&display=swap');
+	</style>
+	<!--<![endif]-->
+
+	<style type="text/css" media="screen">
+		body { padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none }
+		a { color:#000001; text-decoration:none }
+		p { padding:0 !important; margin:0 !important } 
+		img { margin: 0 !important; -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+
+						table {
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}		
+		img, a img{
+			border:0;
+			outline:none;
+			text-decoration:none;
+		}		
+		#outlook a {
+			padding:0;
+		}		
+		.ReadMsgBody {
+			width:100%;
+		}
+		.ExternalClass {
+			width:100%;
+		}
+		div,p,a,li,td,blockquote {
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=sms] {
+			color:inherit;
+			text-decoration:none;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font {
+			line-height:100%;
+		}
+		a[x-apple-data-detectors] {
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+				
+		/* Mobile styles */
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+			.mpx-0 { padding-left: 0px !important; padding-right: 0px !important; }
+
+			.mpx-10 { padding-left: 10px !important; padding-right: 10px !important; }
+
+			.mpb-45 { padding-bottom: 45px !important; }
+
+			.mpy-15 { padding-top: 15px !important; padding-bottom: 15px !important; }
+
+			.mpx-20 { padding-left: 20px !important; padding-right: 20px !important; }
+
+			.mpb-12 { padding-bottom: 12px !important; }
+
+			u + .body .gwfw { width:100% !important; width:100vw !important; }
+
+			.td,
+			.m-shell { width: 100% !important; min-width: 100% !important; }
+			
+			.mt-left { text-align: left !important; }
+			.mt-center { text-align: center !important; }
+			.mt-right { text-align: right !important; }
+			
+			.me-left { margin-right: auto !important; }
+			.me-center { margin: 0 auto !important; }
+			.me-right { margin-left: auto !important; }
+
+			.mh-auto { height: auto !important; }
+			.mw-auto { width: auto !important; }
+
+			.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+
+			.column,
+			.column-top { float: left !important; width: 100% !important; display: block !important; }
+
+			.kmMobileStretch { float: left !important; width: 100% !important; display: block !important; padding-left: 0 !important; padding-right: 0 !important; }
+
+			.m-hide { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+			.m-block { display: block !important; }
+
+			.mw-15 { width: 15px !important; }
+			.mw-240 { width: 240px !important; }
+			.mw-255 { width: 255px !important; }
+
+			.mw-2p { width: 2% !important; }
+			.mw-32p { width: 32% !important; }
+			.mw-49p { width: 49% !important; }
+			.mw-50p { width: 50% !important; }
+			.mw-100p { width: 100% !important; }
+		}
+	</style>
+</head>
+<body class="body" style="padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#F7F7F7; -webkit-text-size-adjust:none;">
+	<center>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0; width: 100%; height: 100%;" bgcolor="#F7F7F7" class="gwfw">
+			<tr>
+				<td style="margin: 0; padding: 0; width: 100%; height: 100%;" align="center" valign="top">
+					<table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+						<tr>
+							<td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<!-- Preview Text -->
+									<tr class="m-hide">
+										<td class="text-8 a-center c-white" style="font-size:8px; line-height:10px; font-family:'Roboto', Arial, sans-serif; min-width:auto !important; text-align:center; color:#ffffff;">
+																					</td>
+									</tr>
+									<!-- END Preview Text -->
+
+									<!-- Fix to prevent preview email content after the subject -->
+									<tr>
+										<td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">Check out Prepped, our new blog! 
+
+											&nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; 
+										</td>
+									</tr>
+									<!-- END Fix to prevent preview email content after the subject -->
+
+									<!-- Header -->
+									<tr>
+										<td class="img-center pt-45 pb-30" style="font-size:0pt; line-height:0pt; text-align:center; padding-top: 45px; padding-bottom: 30px; background: #FFFFFF;" bgcolor="#FFFFFF""><a href="https://www.freshly.com/blog" target="_blank">
+											<img src="https://marketing-image-production.s3.amazonaws.com/uploads/f7023ab036d0b17327965dbc99650c83a9dc1f2e0032a5cbc3b7bda0667e29a667dbe66bca09695652b3f09ed42c3a17d0711552ff09f6a9fddfd418f571e54d.png" width="235" height="88" border="0" alt="prepped by Freshly" />
+										</td>
+									</tr>
+									<!-- END Header -->
+                                    {%- if contact.featured_article -%}
+                                                <!-- Main Content -->
+                                                {%- set i = contact.featured_article | string -%}
+                                                {%- set url = (lookups.blog_articles[i].picture | split('":"'))[2].split('"')[0] -%}
+            									{% include 'Acq_Newsletter_Main_Content' %}
+            									<!-- END Main Content -->
+            									<!-- Intro -->
+            									{% include 'Acq_Newsletter_Intro' %}
+            									<!-- END Intro -->
+            						{%- endif -%}
+                                    {%- if contact.articles -%}
+                                        {%- for i in contact.articles | list -%}
+                                            {%- set url = (lookups.blog_articles[i].picture | split('":"'))[2].split('"')[0] -%}
+                                            {%- if loop.index % 2 != 0 -%}
+            									<!-- 2 Cols - Small Content - 1 -->
+            								    {% include 'Acq_Newsletter_Small_Content_1' %}
+            									<!-- END 2 Cols - Small Content - 1 -->
+                                            {%- else -%}
+            									<!-- 2 Cols - Small Content - 2 -->
+            						            {% include 'Acq_Newsletter_Small_Content_2' %}
+            									<!-- END 2 Cols - Small Content - 2 -->
+                                            {%- endif -%}
+                                        {%- endfor -%}
+                                    {%- endif -%}
+									<!-- 2 Cols - Small Content - 3 -->
+									{% include 'Acq_Newsletter_Small_Content_3' %}
+									<!-- END 2 Cols - Small Content - 3 -->
+								    
+								</table>
+							</td>
+						</tr>{% include 'Footer_Block' %}
+					</table>
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>
