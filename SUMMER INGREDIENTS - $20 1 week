@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" /><!--[if !mso]><!-->
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" /><!--<![endif]-->
+      <link href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One|Roboto:300,400,700" rel="stylesheet">
+    <title>Freshly</title>
+    <style type="text/css">/* RESET STYLES */
+      img, a img{
+        border:0;
+        height:auto;
+        outline:none;
+        text-decoration:none;
+      }
+      body{
+        height:100% !important;
+        margin:0 auto !important;
+        padding:0;
+        width:100% !important;
+      }
+      /* STYLEGUIDE */
+      /* CLIENT-SPECIFIC STYLES */
+      img{
+        -ms-interpolation-mode: bicubic;
+      }
+      /* Force IE to smoothly render resized images. */
+      #outlook a{
+        padding:0;
+      }
+      /* Force Outlook 2007 and up to provide a "view in browser" message. */
+      table{
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+      }
+      /* Remove spacing between tables in Outlook 2007 and up. */
+      .ReadMsgBody{
+        width:100%;
+      }
+      .ExternalClass{
+        width:100%;
+      }
+      /* Force Outlook.com to display emails at full width. */
+      p, a, td{
+        mso-line-height-rule:exactly;
+      }
+      /* Force Outlook to render line heights as they're originally set. */
+      p, a, td, body, table{
+        -ms-text-size-adjust:100%;
+        -webkit-text-size-adjust:100%;
+      }
+      /* Prevent Windows- and Webkit-based mobile platforms from changing declared text sizes. */
+      .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{
+        line-height:100%;
+      }
+      /* Force Outlook.com to display line heights normally. */
+      * [href]:not([style]) {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      /* control gmail default link color */
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      /* attempt to control apple data detection */
+      /* link and cta hover effects */
+      .trash{
+      }
+      /* TEMPLATE STYLES */
+      @media screen and (max-width:480px){
+        .mw100{
+          max-width:100% !important;
+        }
+        .mw75{
+          max-width:75% !important;
+        }
+        .mw55{
+          max-width:55% !important;
+        }
+        .mw50{
+          max-width:50% !important;
+        }
+        .mw60{
+          max-width:60% !important;
+        }
+        .mw35{
+          max-width:35% !important;
+        }
+        .mw25{
+          max-width:25% !important;
+        }
+        .w100{
+          width:100% !important;
+        }
+        .w92{
+          width:92%!important;
+        }
+        .w80{
+          width:80% !important;
+        }
+        .txtcntr {
+          text-align: center!important;
+        }
+        .txtlt {
+          text-align: left!important;
+        }
+        .noPadLR {
+          padding-left:0px !important;
+          padding-right:0px !important;
+        }
+        .mbl-center{
+          margin:0 auto !important;
+          float:none !important;
+        }
+        .mblPct {
+          font-size: 120px !important;
+          line-height: 120px !important;
+        }
+        .mblRise {
+          font-size:60px !important;
+          line-height:0 !important;
+          vertical-align:35px !important;
+        }
+        .mblHL {
+          font-size: 30px !important;
+        }
+        table[class=center], td[class=center] {
+          width: 100% !important;
+          height: auto !important;
+          text-align: center !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+        .hide {
+          display: none !important;
+        }
+        div[class=mobilecontent]{
+          display: block !important;
+          max-height: none !important;
+        }
+      }
+    </style>
+    <!--[if (mso)|(mso 16)]>
+<style type="text/css">
+body, table, td, a, span { font-family: Helvetica, Arial, sans-serif !important; }
+a {text-decoration: none;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+  </head>
+  <body style="margin:0;padding:0;background-color:#ffffff;">
+    <table cellpadding="0" cellspacing="0" border="0" style="width:100%;background-color:#ffffff;">
+        <tbody>
+          <tr>
+            <td style="font-size:0;">
+            </td>
+            <td align="center" valign="top" style="padding-bottom:40px;width:600px;background-color:#ffffff">
+              <table border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%;" width="600">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top">
+                        <!-- Preheader -->
+                      <div style="display: none; max-height: 0px; overflow: hidden;">Get $20 off your first week back&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp; &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;
+                      </div>
+                      <!-- logo -->
+                      <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #f7f5e9;" bgcolor="#f7f5e9" width="600" class="w100" >
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top" style="padding: 0px 0px;  background-color: #f7f5e9;" bgcolor="#f7f5e9"><a target="_blank" title="Freshly" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img style="border: 0px; display: block; max-width: 600px; width: 100%;" width="600" alt="Freshly" src="https://marketing-image-production.s3.amazonaws.com/uploads/b19f843368083c2777279cf222efaf344f15e67c8154db9ed251b91c1c68bf0bea9ffcfef2a6c60e8357a01e5cd72991624f44a2ea1c8985d0e8275c66aeb1e1.jpg" /></a>
+                            </td>
+                          </tr>
+                            <!-- Module 1 -->
+                            
+                            <tr>
+                            <td align="center" valign="top" style="padding: 0px 0px;  background-color: #f7f5e9;" bgcolor="#f7f5e9"><a target="_blank" title="Get $20 Off your first week back" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img style="border: 0px; display: block; max-width: 600px; width: 100%;" width="600" alt="Favorite Summer Veggies" src="https://marketing-image-production.s3.amazonaws.com/uploads/cf0e8b0d1fe036e90d1970f9cdb1cee75bf22625f740830b9524dc02619b75d39f50c0329f7ab78d0f8eb160c260703ca6d8bbb954a26e88fb14343a663b6611.jpg" /></a>
+                            </td>
+                          </tr>
+                            
+                            <tr>
+                            <td align="center" valign="top" style="padding: 0px 0px;  background-color: #f7f5e9;" bgcolor="#f7f5e9"><a target="_blank" title="Freshly" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img style="border: 0px; display: block; max-width: 600px; width: 100%;" width="600" alt="Get $30 Off Chef-Cooked Meals" src="https://marketing-image-production.s3.amazonaws.com/uploads/1028ad21c264de61baa3c112d879080efb3f86ad311d0d12249175c8dc036d61c055755507f418dc6047b5d5dc446c338dd8eb8b9886627d2ca0f83e5432e256.jpg" /></a>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                        
+                        
+                      <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%;" width="600">
+                        <tbody>
+                          <tr>
+                            <td align="center"><!--Begin Meal Content-->
+                              <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #f7f5e9;" bgcolor="#f7f5e9" width="600">
+                                <tbody>
+                        
+                                    
+                                    <tr>
+                            <td align="center" valign="top" style="padding: 0px 0px;  background-color: #f7f5e9;" bgcolor="#f7f5e9"><a target="_blank" title="Freshly" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img style="border: 0px; display: block; max-width: 600px; width: 100%;" width="600" alt="1st order: 6 meals for $45, 2nd order: 6 meals for $45" src="https://marketing-image-production.s3.amazonaws.com/uploads/3a33d9ae6282f47b38e3e013d9f8c4e73f5492da4684a6cc800764a330f62644aac2063f18d3a09666be283b9514a3d9a22fb97912937ec9d5250302eb5e83b6.jpg" /></a>
+                            </td>
+                          </tr>
+                            
+                                    <!-- Module 2 -->
+                                    
+                                <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img alt="Ripe Tomatoes" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/9ed800810c60641f6f544a73706f127e4c182ad929065f28a27b1dcd7fdb81f25adc784a83c29c3558450e061f11252ba236f9f3c323617312c83796172978ec.jpg" /></a>
+                                    </td>
+                                  </tr>
+
+                                  <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img alt="Order Now" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/1c420d7c9b0e228dfaeeb69bdbfb4b762247be55a8a586e5568fd4289e6c4351d012faaec17ac6403e45113dc4eb11f1359008344f83f860262aa61ab7740dfc.jpg" /></a>
+                                    </td>
+                                  </tr>
+                                    
+                                    
+                                    <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img alt="Green & Yellow Wax Beans" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/70eaf9186c4631eb631462d4b078dbd843d0bf5781181ace819647c2c0169a806c81b20850b065e1b8c6c3562b6961c988ebdc1050c2c8e7b2b0e8bd60a8611f.jpg" /></a>
+                                    </td>
+                                  </tr>
+                                    <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img alt="Order Now" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/52f2ddf5c7fc3756433997b41b0259a80a2da26449b6d73705420938dd657d24e668b30db2251b6c9ca561dfc69913cec52c17eeb7234d6c8ea3a8aefc1e2e19.jpg" /></a>
+                                    </td>
+                                  </tr>
+                                    
+                                    
+                                    <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img alt="Grilled Zucchini" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/bfdd364d4cab9f8cadd9a3323e5778cd5731cc45d809b06653cc2bfaaf5ecaecf934d00a058d0bcd937c1efe570e259df753a235c7849f2d2f2865d699006889.jpg" /></a>
+                                    </td>
+                                  </tr>
+                                    <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img alt="Order Now" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/abe0a4d688681a09e1c3d5aee8ef7cf9003b94b78617e097e7b2cf2972ad85491eac0f3dfc3a83ea5687e424fb56cd350111645272e80a44898e8dacfe7f6ae0.jpg" /></a>
+                                    </td>
+                                  </tr>
+                                    
+                                    <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img alt="Chared Corn with Grilled Chiken Pesto Risotto" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/3beacaa40b696bb40b16f8abf4160cbec69e1c6af8ef5b10624bd171634a4ab78be1959d907213f8c28c3a201e7fc9b3f5862202adc9d978e7d52f6aa6749fe1.jpg" /></a>
+                                    </td>
+                                  </tr>
+                                    <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img alt="Order Now" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/d03936b4a3e1aefcbf3a500ecbf5aeba5a28b204db44429a93e0d4a3921ddb1beb57a302f8230f89694e6d51a6b477d49577fc315a78aaf56f7cfd2503873cc4.jpg" /></a>
+                                    </td>
+                                  </tr>
+                                    
+                                    <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://www.freshly.com/subscriptions/{{ contact.subscription_id }}/reactivate?promo=comeback20x1"><img alt="Get $20 Off" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/3f9d1fabd416503cc09fc462bc29f554db08337a41c9f4214d58cd5f38972ce3cd4ac7fcfe140f2ac2b346e0fc16fc6b8a7a95b72e12e10d2581453a23c87738.jpg" /></a>
+                                    </td>
+                                  </tr>
+                                    
+                                </tbody>
+                              </table>
+                              <!--End Meal Content--><!--Begin Footer -->
+                              
+                               {% include 'Footer_Block' %}
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+            <td style="font-size:0;">
+            </td>
+          </tr>
+        </tbody>
+      </table>
+  </body>
+</html>
