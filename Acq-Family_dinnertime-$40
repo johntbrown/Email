@@ -1,0 +1,381 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+<head>
+	<!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="x-apple-disable-message-reformatting" />
+	 <!--[if !mso]><!-->
+	<link href="https://fonts.googleapis.com/css?family=Oswald:400,500,700|Roboto:300,300i,400,400i,500,500i,700,700i&display=swap" rel="stylesheet"/>
+	 <!--<![endif]-->
+	<title>Family Dinnertime</title>
+	<!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+	
+
+	<style type="text/css" media="screen">
+		body { padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none }
+		a { color:#000001; text-decoration:none }
+		p { padding:0 !important; margin:0 !important } 
+		img { margin: 0 !important; -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+
+		.btn-23 a { display: block; padding: 8px 5px; border-radius: 10px; text-decoration: none; }
+
+		.l-red a { color: #d20000; }
+		
+				
+		/* Mobile styles */
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+			.mpt-30 { padding-top: 30px !important; }
+
+			.mpx-15 { padding-left: 15px !important; padding-right: 15px !important; }
+
+			.mpb-20 { padding-bottom: 20px !important; }
+
+			.mpb-30 { padding-bottom: 30px !important; }
+
+			.mpt-25 { padding-top: 25px !important; }
+
+			.mpt-10 { padding-top: 10px !important; }
+
+			.mpx-5 { padding-left: 5px !important; padding-right: 5px !important; }
+
+			.mpb-15 { padding-bottom: 15px !important; }
+
+			u + .body .gwfw { width:100% !important; width:100vw !important; }
+
+			.td,
+			.m-shell { width: 100% !important; min-width: 100% !important; padding: 0 !important; }
+			
+			.mt-left { text-align: left !important; }
+			.mt-center { text-align: center !important; }
+			.mt-right { text-align: right !important; }
+			
+			.me-left { margin-right: auto !important; }
+			.me-center { margin: 0 auto !important; }
+			.me-right { margin-left: auto !important; }
+
+			.h-auto { height: auto !important; }
+			.w-auto { width: auto !important; }
+
+			.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+
+			.column,
+			.column-top { float: left !important; width: 100% !important; display: block !important; }
+
+			.m-hide { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+			.m-block { display: block !important; }
+
+			.w-15 { width: 15px !important; }
+			.w-50,
+			.w-50 img { width: 50px !important; height: auto !important; }
+
+			.w-2p { width: 2% !important; }
+			.w-32p { width: 32% !important; }
+			.w-49p { width: 49% !important; }
+			.w-50p { width: 50% !important; }
+			.w-100p { width: 100% !important; }
+
+			/* Text */
+			.title-25 { font-size: 23px !important; line-height: 27px !important; }
+			.title-30 { font-size: 26px !important; line-height: 30px !important; }
+			.title-36 { font-size: 30px !important; line-height: 34px !important; }
+			.title-39 { font-size: 33px !important; line-height: 37px !important; }
+			.title-40 { font-size: 34px !important; line-height: 38px !important; }
+			.title-41 { font-size: 35px !important; line-height: 39px !important; }
+			.title-47 { font-size: 39px !important; line-height: 43px !important; }
+			.title-60 { font-size: 44px !important; line-height: 48px !important; }
+			.title-70 { font-size: 45px !important; line-height: 49px !important; }
+			.title-75 { font-size: 50px !important; line-height: 54px !important; }
+			.title-80 { font-size: 56px !important; line-height: 60px !important; }
+
+			.text-19.lh-30 { font-size: 15px !important; line-height: 24px !important; }
+			.text-20 { font-size: 17px !important; line-height: 21px !important; }
+			.text-21.lh-31 { font-size: 16px !important; line-height: 24px !important; }
+			.text-21.lh-32 { font-size: 16px !important; line-height: 24px !important; }
+			.text-21.lh-33 { font-size: 16px !important; line-height: 26px !important; }
+			.text-22.lh-35 { font-size: 16px !important; line-height: 26px !important; }
+			.text-23.lh-30 { font-size: 18px !important; line-height: 26px !important; }
+
+			/* Button */
+			.btn-23 { font-size: 20px !important; line-height: 24px !important; }
+		}
+	</style>
+</head>
+<body class="body" style="padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none;">
+	<center>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0; width: 100%; height: 100%;" bgcolor="#ffffff" class="gwfw">
+			<tr>
+				<td style="margin: 0; padding: 0; width: 100%; height: 100%;" align="center" valign="top">
+					<table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+						<tr>
+							<td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:10px 0; margin:0; font-weight:normal;">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0"><!-- Preheader -->
+                      <div style="display: none; max-height: 0px; overflow: hidden;">Save on clean-up and your first two weeks of Freshly.&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp; &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div>
+									<!-- Header -->
+									<tr>
+										<td class="img-center py-24" style="font-size:0pt; line-height:0pt; text-align:center; padding-top: 24px; padding-bottom: 24px;">
+											<a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/f61ad8554032041379ddabf43815d37cca83abc7370170d5f9f091342010e5583246b600bdf8c1c8df84b0afea356106af7ee03c2cc9d22b50d43d0210fd2a47.png" width="118" height="69" border="0" alt="Freshly Logo" /></a>
+										</td>
+									</tr>
+									<!-- END Header -->
+
+									<!-- Title / Image / Text / Button -->
+									<tr>
+										<td class="pt-40 px-35 mpt-30 mpx-15" bgcolor="#062947" style="padding-top: 40px; padding-left: 35px; padding-right: 35px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="fluid-img pb-25" style="font-size:0pt; line-height:0pt; text-align:left; padding-bottom: 25px;"><a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank">
+														<img src="https://marketing-image-production.s3.amazonaws.com/uploads/493a4432e94002c81eda3d1633053edafeb86f7ec17098f74e3b05314f0ef8173b2f0440e28df09f433ae8fe887130b9e37d2e588f13cee154343fd6c5743460.png" width="530" height="456" border="0" alt="Family Dinnertime" />
+													</td>
+												</tr>
+												<tr>
+													<td class="text-22 lh-30 a-center c-white pb-15" style="font-size:22px; font-family:Arial, sans-serif; min-width:auto !important; line-height: 30px; text-align:center; color:#ffffff; padding-bottom: 15px;">
+														To celebrate a new year for family&mdash;and <span class="m-hide"><br /></span>busy schedules&mdash;take $40 off your <span class="m-hide"><br /></span>first two weeks of Freshly.
+													</td>
+												</tr>
+												<tr>
+													<td class="text-20 a-center c-white ff-r fw-300 pb-10" style="font-size:20px; line-height:24px; min-width:auto !important; text-align:center; color:#ffffff; font-family:'Roboto', Arial, sans-serif; font-weight:300; padding-bottom: 10px;">
+														1st order: 6 Meals for $39.99 <strike class="c-red" style="color:#ff1c1c;"><span class="c-white" style="color:#ffffff;">($59.99)</span></strike>
+													</td>
+												</tr>
+												<tr>
+													<td class="text-20 a-center c-white ff-r fw-300 pb-30 mpb-20" style="font-size:20px; line-height:24px; min-width:auto !important; text-align:center; color:#ffffff; font-family:'Roboto', Arial, sans-serif; font-weight:300; padding-bottom: 30px;">
+														2nd order: 6 Meals for $39.99 <strike class="c-red" style="color:#ff1c1c;"><span class="c-white" style="color:#ffffff;">($59.99)</span></strike>
+													</td>
+												</tr>
+												<tr>
+													<td class="pb-45 mpb-30" align="center" style="padding-bottom: 45px;">
+														<!-- Button -->
+														<table width="210" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="btn-23 c-white ltsp-1" bgcolor="#d97a44" style="font-size:23px; line-height:27px; mso-padding-alt:8px 5px; border-radius:4px; font-family:'Roboto', Arial, sans-serif; text-align:center; color:#ffffff; letter-spacing:1px;">
+																	<a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank" class="link c-white" style="display: block; padding: 8px 5px; text-decoration:none; color:#ffffff;">
+																		<span class="link c-white" style="text-decoration:none; color:#ffffff;">GET $40 OFF</span>
+																	</a>
+																</td>
+															</tr>
+														</table>
+														<!-- END Button -->
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- END Title / Image / Text / Button -->
+
+									<!-- Title / List Steps -->
+									<tr>
+										<td class="pt-30 mpt-25" style="padding-top: 30px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="title-41 a-center c-green fw-500 ltsp-2 px-15 pb-25" style="font-size:41px; line-height:45px; font-family:'Oswald', 'Trebuchet MS', Arial, sans-serif; min-width:auto !important; text-align:center; color:#003300; font-weight: 500; letter-spacing: 2px; padding-left: 15px; padding-right: 15px; padding-bottom: 25px;">
+														HOW FRESHLY WORKS
+													</td>
+												</tr>
+
+												<!-- Step 1 -->
+												<tr>
+													<td class="pb-15 px-55 mpx-15 mpb-20" style="padding-bottom: 15px; padding-left: 55px; padding-right: 55px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<th class="column img-center" width="150" style="padding:0; margin:0; font-weight:normal; font-size:0pt; line-height:0pt; text-align:center;"> <a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank">
+																	<img src="https://marketing-image-production.s3.amazonaws.com/uploads/96889cfed6093e35397eae278b131b75340610b383a489623326e4fca2e531d984650d2a24c39acd7540fd6b0c7a97884b6c1ae569c8a31f1eb3b36fc8a49ae7.gif" width="150" height="150" border="0" alt="CHOOSE YOUR MEALS" />
+																</th>
+																<th class="column" width="60" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;"></th>
+																<th class="column" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="title-22 c-green fw-500 mt-center pb-8" style="letter-spacing: 0.5px; font-size:22px; line-height:26px; font-family:'Oswald', 'Trebuchet MS', Arial, sans-serif; text-align:left; min-width:auto !important; color:#003300; font-weight: 500; padding-bottom: 8px;">
+																				CHOOSE YOUR MEALS
+																			</td>
+																		</tr>
+																		<tr>
+																			<td class="text-21 lh-25 c-green mt-center" style="font-size:21px; font-family:Arial, sans-serif; text-align:left; min-width:auto !important; line-height: 25px; color:#003300;">
+																				30+ menu of <br />
+																				nutritious dishes
+																			</td>
+																		</tr>
+																	</table>
+																</th>
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<!-- END Step 1 -->
+
+												<!-- Step 2 -->
+												<tr>
+													<td class="py-15 px-55 mpx-15 mpb-20" style="border-top: 1px solid #dfdfdf; padding-top: 15px; padding-bottom: 15px; padding-left: 55px; padding-right: 55px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<th class="column img-center" width="150" style="padding:0; margin:0; font-weight:normal; font-size:0pt; line-height:0pt; text-align:center;"> <a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank">
+																	<img src="https://marketing-image-production.s3.amazonaws.com/uploads/c5ce594a2a28d759166666d63b19901d73bdbbc705fc9c0dbfe6d4694f313cc96dbadbe9024ff7022a875e36b3d8a826ba94b64e55cc7513f25f5d49b6f18aab.gif" width="150" height="150" border="0" alt="WE COOK & DELIVER" />
+																</th>
+																<th class="column" width="60" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;"></th>
+																<th class="column" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="title-22 c-green fw-500 mt-center pb-8" style="letter-spacing: 0.5px; font-size:22px; line-height:26px; font-family:'Oswald', 'Trebuchet MS', Arial, sans-serif; text-align:left; min-width:auto !important; color:#003300; font-weight: 500; padding-bottom: 8px;">
+																				WE COOK &amp; DELIVER
+																			</td>
+																		</tr>
+																		<tr>
+																			<td class="text-21 lh-25 c-green mt-center" style="font-size:21px; font-family:Arial, sans-serif; text-align:left; min-width:auto !important; line-height: 25px; color:#003300;">
+																				Cooked by chefs and<br /> 
+																				delivered fresh
+																			</td>
+																		</tr>
+																	</table>
+																</th>
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<!-- END Step 2 -->
+
+												<!-- Step 3 -->
+												<tr>
+													<td class="py-15 px-55 mpx-15 mpb-20" style="border-top: 1px solid #dfdfdf; padding-top: 15px; padding-bottom: 15px; padding-left: 55px; padding-right: 55px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<th class="column img-center" width="150" style="padding:0; margin:0; font-weight:normal; font-size:0pt; line-height:0pt; text-align:center;">
+																	 <a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/608883126d35bee343eacfaf624137bc77af9bc40ae993686626de0bda002130c13051671bb52741322457ed58af265159cf50933128c1f5d8e13608fc9307c1.gif" width="150" height="150" border="0" alt="YOU HEAT ‘EM UP" />
+																</th>
+																<th class="column" width="60" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;"></th>
+																<th class="column" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="title-22 c-green fw-500 mt-center pb-8" style="letter-spacing: 0.5px; font-size:22px; line-height:26px; font-family:'Oswald', 'Trebuchet MS', Arial, sans-serif; text-align:left; min-width:auto !important; color:#003300; font-weight: 500; padding-bottom: 8px;">
+																				YOU HEAT &lsquo;EM UP
+																			</td>
+																		</tr>
+																		<tr>
+																			<td class="text-21 lh-25 c-green mt-center" style="font-size:21px; font-family:Arial, sans-serif; text-align:left; min-width:auto !important; line-height: 25px; color:#003300;">
+																				Ready to eat in<br /> 
+																				3 minutes
+																			</td>
+																		</tr>
+																	</table>
+																</th>
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<!-- END Step 3 -->
+
+												<!-- Step 4 -->
+												<tr>
+													<td class="py-15 px-55 mpx-15 mpb-20" style="border-top: 1px solid #dfdfdf; padding-top: 15px; padding-bottom: 15px; padding-left: 55px; padding-right: 55px;">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<th class="column img-center" width="150" style="padding:0; margin:0; font-weight:normal; font-size:0pt; line-height:0pt; text-align:center;">
+																	 <a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/1a640c19afaa7145861631892e85f75fd2c9e908c899333a7478fa89eeee8f2646b79af4f90214e8eaffa94dd35be0f81d456ee12350499afa8992c0de89d4b8.gif" width="150" height="150" border="0" alt="EAT & REPEAT" />
+																</th>
+																<th class="column mpb-20" width="60" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;"></th>
+																<th class="column" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+																	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																		<tr>
+																			<td class="title-22 c-green fw-500 mt-center pb-8" style="letter-spacing: 0.5px; font-size:22px; line-height:26px; font-family:'Oswald', 'Trebuchet MS', Arial, sans-serif; text-align:left; min-width:auto !important; color:#003300; font-weight: 500; padding-bottom: 8px;">
+																				EAT &amp; REPEAT
+																			</td>
+																		</tr>
+																		<tr>
+																			<td class="text-21 lh-25 c-green mt-center" style="font-size:21px; font-family:Arial, sans-serif; text-align:left; min-width:auto !important; line-height: 25px; color:#003300;">
+																				Skip a week  or<br /> 
+																				cancel anytime
+																			</td>
+																		</tr>
+																	</table>
+																</th>
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<!-- END Step 4 -->
+
+												<!-- Button -->
+												<tr>
+													<td class="pt-15 pb-30 mpt-10" align="center" style="padding-top: 15px; padding-bottom: 30px;">
+														<table width="210" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="btn-23 c-white ltsp-1" bgcolor="#d97a44" style="font-size:23px; line-height:27px; mso-padding-alt:8px 5px; border-radius:4px; font-family:'Roboto', Arial, sans-serif; text-align:center; color:#ffffff; letter-spacing:1px;">
+																	<a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank" class="link c-white" style="display: block; padding: 8px 5px; text-decoration:none; color:#ffffff;">
+																		<span class="link c-white" style="text-decoration:none; color:#ffffff;">GET $40 OFF</span>
+																	</a>
+																</td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<!-- END Button -->
+											</table>
+										</td>
+									</tr>
+									<!-- END Title / List Steps -->
+
+									<!-- Title / Text / Button / Images Left-Right -->
+									<tr>
+										<td bgcolor="#062947">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="img w-50" width="132" style="font-size:0pt; line-height:0pt; text-align:left;"> <a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/c2da066d1a7edab0cc1b5c43e82c657333dd4a93fbe7be9c7366756b0ef7ebf645b444e5781135dbb08b8f9073b0137fb0f6434f66601d0d9971df1ef2b25819.jpg" width="132" height="320" border="0" alt="FRESHLY IS FOR FAMILIES" /></td>
+													<td class="mpx-5">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="title-28 a-center c-white fw-500 ltsp-1 pt-15 pb-20 mpt-30 mpb-15" style="font-size:28px; line-height:32px; font-family:'Oswald', 'Trebuchet MS', Arial, sans-serif; min-width:auto !important; text-align:center; color:#ffffff; font-weight: 500; letter-spacing:1px; padding-top: 15px; padding-bottom: 20px;">FRESHLY IS FOR FAMILIES</td>
+															</tr>
+															<tr>
+																<td class="text-20 a-center c-white lh-30 ff-r fw-300 pb-20 mpb-15" style="font-size:20px; min-width:auto !important; text-align:center; color:#ffffff; line-height: 30px; font-family:'Roboto', Arial, sans-serif; font-weight:300; padding-bottom: 20px;">
+																	Getting everyone to the table can be&nbsp;hard enough, let alone deciding what to eat. Let us do the work so you&nbsp;can do the savoring.
+																</td>
+															</tr>
+															<tr>
+																<td class="pb-15 mpb-30" align="center" style="padding-bottom: 15px;">
+																	<!-- Button -->
+														<table width="210" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="btn-23 c-white ltsp-1" bgcolor="#d97a44" style="font-size:23px; line-height:27px; mso-padding-alt:8px 5px; border-radius:4px; font-family:'Roboto', Arial, sans-serif; text-align:center; color:#ffffff; letter-spacing:1px;">
+																	<a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank" class="link c-white" style="display: block; padding: 8px 5px; text-decoration:none; color:#ffffff;">
+																		<span class="link c-white" style="text-decoration:none; color:#ffffff;">GET $40 OFF</span>
+																	</a>
+																</td>
+															</tr>
+														</table>
+														<!-- END Button -->
+																</td>
+															</tr>
+														</table>
+													</td>
+													<td class="img w-50" width="132" style="font-size:0pt; line-height:0pt; text-align:left;"> <a href="https://www.freshly.com/join-now/checkout?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" target="_blank"><img src="https://marketing-image-production.s3.amazonaws.com/uploads/2df0f3dcdca45259001e36b06e8250c4ae2f4448e49672270503078e286fc742180a1f0e64022a937706a5da5da51fafd456a5d438ff96494aaa69d9c8822da8.jpg" width="132" height="320" border="0" alt=" deciding what to eat" /></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- END Title / Text / Button / Images Left-Right -->{% include 'Footer_Block' %}
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</center>
+<style> #_eoa_div, #_eoa_img { display:none; } @media print{ #_eoa_div { background-image: url('https://cJYw5ZNuWe.eoapxl.com/cJYw5ZNuWe/P'); } } div.OutlookMessageHeader, table.moz-email-headers-table, blockquote #_eoa_div, #mailContainerBody #_eoa_div { background-image:url('https://cJYw5ZNuWe.eoapxl.com/cJYw5ZNuWe/F') } </style><div id="_eoa_div"></div><img id="_eoa_img" src="https://cJYw5ZNuWe.eoapxl.com/cJYw5ZNuWe/" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;display:block;" alt="" title="" border="0" width="1" height="1" />
+<style> #_eoa_div, #_eoa_img { display:none; } @media print{ #_eoa_div { background-image: url('https://IrsvpEN4q6.eoapxl.com/IrsvpEN4q6/P'); } } div.OutlookMessageHeader, table.moz-email-headers-table, blockquote #_eoa_div, #mailContainerBody #_eoa_div { background-image:url('https://IrsvpEN4q6.eoapxl.com/IrsvpEN4q6/F') } </style><div id="_eoa_div"></div><img id="_eoa_img" src="https://IrsvpEN4q6.eoapxl.com/IrsvpEN4q6/" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;display:block;" alt="" title="" border="0" width="1" height="1" />
+</body>
+</html>
