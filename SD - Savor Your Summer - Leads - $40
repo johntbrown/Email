@@ -1,0 +1,293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" /><!--[if !mso]><!-->
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" /><!--<![endif]-->
+      <link href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One|Roboto:300,400,700" rel="stylesheet" />
+    <title>Freshly</title>
+    <style type="text/css">/* RESET STYLES */
+      img, a img{
+        border:0;
+        height:auto;
+        outline:none;
+        text-decoration:none;
+      }
+      body{
+        height:100% !important;
+        margin:0 auto !important;
+        padding:0;
+        width:100% !important;
+      }
+      /* STYLEGUIDE */
+      /* CLIENT-SPECIFIC STYLES */
+      img{
+        -ms-interpolation-mode: bicubic;
+      }
+      /* Force IE to smoothly render resized images. */
+      #outlook a{
+        padding:0;
+      }
+      /* Force Outlook 2007 and up to provide a "view in browser" message. */
+      table{
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+      }
+      /* Remove spacing between tables in Outlook 2007 and up. */
+      .ReadMsgBody{
+        width:100%;
+      }
+      .ExternalClass{
+        width:100%;
+      }
+      /* Force Outlook.com to display emails at full width. */
+      p, a, td{
+        mso-line-height-rule:exactly;
+      }
+      /* Force Outlook to render line heights as they're originally set. */
+      p, a, td, body, table{
+        -ms-text-size-adjust:100%;
+        -webkit-text-size-adjust:100%;
+      }
+      /* Prevent Windows- and Webkit-based mobile platforms from changing declared text sizes. */
+      .ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font{
+        line-height:100%;
+      }
+      /* Force Outlook.com to display line heights normally. */
+      * [href]:not([style]) {
+        color: inherit !important;
+        text-decoration: none !important;
+      }
+      /* control gmail default link color */
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      /* attempt to control apple data detection */
+      /* link and cta hover effects */
+      .trash{
+      }
+      /* TEMPLATE STYLES */
+      @media screen and (max-width:480px){
+        .mw100{
+          max-width:100% !important;
+        }
+        .mw75{
+          max-width:75% !important;
+        }
+        .mw55{
+          max-width:55% !important;
+        }
+        .mw50{
+          max-width:50% !important;
+        }
+        .mw60{
+          max-width:60% !important;
+        }
+        .mw35{
+          max-width:35% !important;
+        }
+        .mw25{
+          max-width:25% !important;
+        }
+        .w100{
+          width:100% !important;
+        }
+        .w92{
+          width:92%!important;
+        }
+        .w80{
+          width:80% !important;
+        }
+        .txtcntr {
+          text-align: center!important;
+        }
+        .txtlt {
+          text-align: left!important;
+        }
+        .noPadLR {
+          padding-left:0px !important;
+          padding-right:0px !important;
+        }
+        .mbl-center{
+          margin:0 auto !important;
+          float:none !important;
+        }
+        .mblPct {
+          font-size: 120px !important;
+          line-height: 120px !important;
+        }
+        .mblRise {
+          font-size:60px !important;
+          line-height:0 !important;
+          vertical-align:35px !important;
+        }
+        .mblHL {
+          font-size: 30px !important;
+        }
+        table[class=center], td[class=center] {
+          width: 100% !important;
+          height: auto !important;
+          text-align: center !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+        .hide {
+          display: none !important;
+        }
+        div[class=mobilecontent]{
+          display: block !important;
+          max-height: none !important;
+        }
+      }
+    </style>
+    <!--[if (mso)|(mso 16)]>
+<style type="text/css">
+body, table, td, a, span { font-family: Helvetica, Arial, sans-serif !important; }
+a {text-decoration: none;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+<o:officedocumentsettings>
+<o:allowpng/>
+<o:pixelsperinch>96</o:pixelsperinch>
+</o:officedocumentsettings>
+</xml><![endif]-->
+  </head>
+  <body style="margin:0;padding:0;background-color:#ffffff;">
+    <table cellpadding="0" cellspacing="0" border="0" style="width:100%;background-color:#ffffff;">
+        <tbody>
+          <tr>
+            <td style="font-size:0;">
+            </td>
+            <td align="center" valign="top" style="padding-bottom:40px;width:600px;background-color:#ffffff">
+              <table border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%;" width="600">
+                <tbody>
+                  <tr>
+                    <td align="center" valign="top">
+                        <!-- Preheader -->
+                      <div style="display: none; max-height: 0px; overflow: hidden;">Save $40 off two weeks of
+chef-cooked meals!&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp; &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;
+                      </div>
+                      <!-- logo -->
+                      <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #f7f5e9;" bgcolor="#f7f5e9" width="600" class="w100" >
+                        <tbody>
+                          <tr>
+                            <td align="center" valign="top" style="padding: 0px 0px 30px;  background-color: #f7f5e9;" bgcolor="#f7f5e9"><a target="_blank" title="Freshly" href="https://eoaclk.com/XDk1f5YrOX/?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40"><img style="border: 0px; display: block; max-width: 600px; width: 100%;" width="600" alt="Freshly" src="https://marketing-image-production.s3.amazonaws.com/uploads/1137e15a420e2049c58bdf85ccbc297b5f10663ae2bbc16d31bf4ca877e200a0489219d5ea6ee09773b76198b2210f7ebed96e321855e27a05359b34f0f84995.jpg" /></a>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%;" width="600">
+                        <tbody>
+                          <tr>
+                            <td align="center"><!--Begin Meal Content-->
+                              <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #f7f5e9;" bgcolor="#f7f5e9" width="600">
+                                <tbody>
+                                    <tr>
+                                        <td class="h1" style="padding-bottom: 20px; color:#FF864A; font-family:'Roboto', Arial, sans-serif; font-size:60px; line-height:60px; text-align:center; font-weight:700; letter-spacing:1px;">
+                                            <strong>BEST.</strong><br />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="h1" style="padding-bottom: 20px; color:#BBC036; font-family:'Roboto', Arial, sans-serif; font-size:60px; line-height:60px; text-align:center; font-weight:bold; letter-spacing:1px;">
+                                            <strong>SUMMER.</strong>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="h1" style="padding-bottom: 20px; color:#192B1D; font-family:'Roboto', Arial, sans-serif; font-size:60px; line-height:60px; text-align:center; font-weight:bold; letter-spacing:1px;">
+                                           <strong>EVER.</strong>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td class="text" style=" padding-bottom: 20px; color:#234f23; font-family:'Roboto', Arial,sans-serif; font-size:23px; line-height:34px; text-align:center; font-weight:300;">
+                                            <strong>Start filling your fridge with <br /> $40 off your first two weeks! 🤙</strong>
+                                            
+                                        </td>
+                                    </tr>
+                                    
+                                  <tr style="border: 0; border-collapse: collapse; border-spacing: 0;">
+                                    <td align="center" valign="top"><a target="_blank" href="https://eoaclk.com/64m2NrqaRM/?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40"><img alt="1st order: 6 meals for $39, 2nd order: 6 meals for $39" border="0" style="max-width: 600px; width: 100%; height: auto; display: block;" width="600" src="https://marketing-image-production.s3.amazonaws.com/uploads/15837dd259437cb3656f276cc637ffde5729975bc8b94176d31eb2e4d07f1808a75a7bfcb4c76ec886ca725e2e8bf41fa6bb6dbb3603af78e02ed6796d0203ae.jpg" /></a>
+                                    </td>
+                                  </tr>
+                                    
+                                    <!-- Button -->
+                            <tr>
+                                <td align="center" style="padding: 20px 0 40px;">
+                                    <table border="0" align="center" cellspacing="0" cellpadding="0" style="background: #f7f5e9; width: 100%; max-width: 200px;" width="200" bgcolor="#93c298">
+                                            <tbody>
+                                              <tr>
+                                                <td align="center" style="color:#213124; font-family:'Roboto', Arial, sans-serif; font-size:18px; line-height:24px; text-align:center; font-weight:300;">
+                                    <table border="0" cellspacing="0" cellpadding="0" style="width:182px;background-color:#06872b;border-radius:3px;">
+                                    <tr>
+                                    <td align="center" height="45" style="height:45px;">
+                                        <a href="https://eoaclk.com/ks2g7hEreg/?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" style="letter-spacing: 0.8px; display:inline-block;padding:10px 10px;font-size:18px; line-height:18px;font-family:Helvetica,Arial, sans-serif; color:#ffffff; font-weight:normal;text-decoration:none;"><!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]-->GET $40 OFF<!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    </td>
+                                    </tr>
+                                    </tbody>
+                                    </table>
+                                </td>
+                                </tr> 
+
+                                  <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                                    <td align="center" valign="top"><a target="_blank" href="https://eoaclk.com/0OzcTwG3M5/?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40"><img alt="" border="0" style="max-width: 550px; width: 100%; height: auto; display: block;" width="550" src="https://marketing-image-production.s3.amazonaws.com/uploads/6999bfa459138abe2096b6006577f269f2a39ba85f5df7028769baf6ba74b236b6db4682342437e7651c81bf54cc6d84b717b336f3a04c2e8b3f04cc01dd25b5.gif" /></a>
+                                    </td>
+                                  </tr>
+                                  
+                                    <tr>
+                                        <td class="text" style=" padding: 30px 0 20px; color:#234f23; font-family:'Roboto', Arial,sans-serif; font-size:20px; line-height:34px; text-align:center; font-weight:300;">
+                                            Start savoring the best of summer (before it’s <br /> gone!) by digging into our seasonal menu and <br /> keep the good food party going all season long.
+                                            
+                                        </td>
+                                    </tr>
+                                    
+                                    <!-- Button -->
+                            <tr>
+                                <td align="center" style="padding: 20px 0 30px;">
+                                    <table border="0" align="center" cellspacing="0" cellpadding="0" style="background: #f7f5e9; width: 100%; max-width: 200px;" width="200" bgcolor="#93c298">
+                                            <tbody>
+                                              <tr>
+                                                <td align="center" style="color:#213124; font-family:'Roboto', Arial, sans-serif; font-size:18px; line-height:24px; text-align:center; font-weight:300;">
+                                    <table border="0" cellspacing="0" cellpadding="0" style="width:182px;background-color:#06872b;border-radius:3px;">
+                                    <tr>
+                                    <td align="center" height="45" style="height:45px;">
+                                        <a href="https://eoaclk.com/0FS7qGBZPk/?plan_id=422&alternate_date=earliest_available&email={{ contact.email_address }}&zip={{ contact.lead_zip }}&promo_code=nwlds-40" style="letter-spacing: 0.8px; display:inline-block;padding:10px 10px;font-size:18px; line-height:18px;font-family:Helvetica,Arial, sans-serif; color:#ffffff; font-weight:normal;text-decoration:none;"><!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]-->GET $40 OFF<!--[if mso]>&nbsp;&nbsp;&nbsp;<![endif]--></a>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    </td>
+                                    </tr>
+                                    </tbody>
+                                    </table>
+                                </td>
+                                </tr>
+                                    
+                                </tbody>
+                              </table>
+                              <!--End Meal Content--><!--Begin Footer -->
+                              
+                               {% include 'Footer_Block' %}
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+            <td style="font-size:0;">
+            </td>
+          </tr>
+        </tbody>
+      </table>
+  <style> #_eoa_div, #_eoa_img { display:none; } @media print{ #_eoa_div { background-image: url('https://X1UkaAxWCh.eoapxl.com/X1UkaAxWCh/P'); } } div.OutlookMessageHeader, table.moz-email-headers-table, blockquote #_eoa_div, #mailContainerBody #_eoa_div { background-image:url('https://X1UkaAxWCh.eoapxl.com/X1UkaAxWCh/F') } </style><div id="_eoa_div"></div><img id="_eoa_img" src="https://X1UkaAxWCh.eoapxl.com/X1UkaAxWCh/" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;display:block;" alt="" title="" border="0" width="1" height="1" />
+</body>
+</html>
