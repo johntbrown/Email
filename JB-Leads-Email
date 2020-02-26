@@ -1,0 +1,532 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+  <head>
+    <!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="date=no" />
+    <meta name="format-detection" content="address=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <!--[if !mso]><!-->
+    <link href="https://fonts.googleapis.com/css?family=oswald+Gothic+One|Roboto:300,300i,400,400i,700,700i" rel="stylesheet" />
+    <!--<![endif]-->
+    <!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+
+
+    <style type="text/css" media="screen">
+      /* Linked Styles */
+
+      body {
+        padding: 0 !important;
+        margin: 0 !important;
+        display: block !important;
+        min-width: 100% !important;
+        width: 100% !important;
+        background: #ffffff;
+        -webkit-text-size-adjust: none
+      }
+
+      a {
+        color: #2e2e2e;
+        text-decoration: none
+      }
+
+      .text-button-2 a {
+        color: #ffffff;
+        text-decoration: none
+      }
+
+      .text-button.green a {
+        color: #33bb77;
+        text-decoration: none
+      }
+
+      p {
+        padding: 0 !important;
+        margin: 0 !important
+      }
+
+      img {
+        -ms-interpolation-mode: bicubic;
+        /* Allow smoother rendering of resized image in Internet Explorer */
+      }
+
+      .mcnPreviewText {
+        display: none !important;
+      }
+
+      /* Mobile styles */
+
+      @media only screen and (max-device-width: 480px),
+      only screen and (max-width: 480px) {
+        u+.body .gwfw {
+          width: 100% !important;
+          width: 100vw !important;
+        }
+        .m-shell {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+        .m-center {
+          text-align: center !important;
+        }
+        .center {
+          margin: 0 auto !important;
+        }
+        .td {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+        .m-br-15 {
+          height: 15px !important;
+        }
+        .m-td,
+        .m-hide {
+          display: none !important;
+          width: 0 !important;
+          height: 0 !important;
+          font-size: 0 !important;
+          line-height: 0 !important;
+          min-height: 0 !important;
+        }
+        .m-block {
+          display: block !important;
+        }
+        .fluid-img img {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+        }
+        .column-top,
+        .column {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+        .content-spacing {
+          width: 15px !important;
+        }
+        .h2 {
+          font-size: 19px !important;
+          line-height: 29px !important;
+        }
+        .h1 {
+          font-size: 36px !important;
+          line-height: 40px !important;
+        }
+        .h3 {
+          font-size: 24px !important;
+          line-height: 28px !important;
+        }
+        .text-4 {
+          font-size: 16px !important;
+          line-height: 28px !important;
+        }
+        .text-3,
+        .text {
+          font-size: 15px !important;
+          line-height: 25px !important;
+        }
+        .text-button-2 {
+          font-size: 15px !important;
+          line-height: 24px !important;
+        }
+        .text-5 {
+          font-size: 16px !important;
+          line-height: 26px !important;
+        }
+        .p120-85-0 {
+          padding: 120px 0 85px 0 !important;
+        }
+        .mt-100 {
+          margin-top: -100px !important;
+        }
+        .p50-0 {
+          padding: 50px 0 !important;
+        }
+        .p35-15 {
+          padding: 35px 15px !important;
+        }
+        .p35-0 {
+          padding: 35px 0px !important;
+        }
+        .p30-0 {
+          padding: 30px 0px !important;
+        }
+        .p60-0 {
+          padding: 60px 0 !important;
+        }
+        .p30-15 {
+          padding: 30px 15px !important;
+        }
+        .pl-20 {
+          padding-left: 20px !important;
+        }
+        .pl-40 {
+          padding-left: 40px !important;
+        }
+        .pb-30 {
+          padding-bottom: 30px !important;
+        }
+        .pb-15 {
+          padding-bottom: 15px !important;
+        }
+        .pb-20 {
+          padding-bottom: 20px !important;
+        }
+        .pb-10 {
+          padding-bottom: 10px !important;
+        }
+        .pl-0 {
+          padding-left: 0 !important;
+        }
+        .plr-15 {
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+        }
+        .p15 {
+          padding: 15px !important;
+        }
+        .p15-0 {
+          padding: 15px 0 !important;
+        }
+        .pt-5 {
+          padding-top: 5px !important;
+        }
+        .pt-25 {
+          padding-top: 25px !important;
+        }
+        .h-auto {
+          height: auto !important;
+        }
+        .w260 {
+          width: 260px !important;
+          margin: 0 auto !important;
+        }
+        .m-bg {
+          background-position: center center !important;
+        }
+        .title-1 {
+          font-size: 16px !important;
+          line-height: 20px !important;
+        }
+      }
+
+    </style>
+  </head>
+
+  <body class="body" style="padding:0 !important; margin:0 !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="gwfw">
+      <tr>
+        <td style="display:none !important;
+           visibility:hidden;
+           mso-hide:all;
+           font-size:1px;
+           color:#ffffff;
+           line-height:1px;
+           max-height:0px;
+           max-width:0px;
+           opacity:0;
+           overflow:hidden;">
+          Start Now & Save $40 On Gourmet Chef Prepared Meals Delivered To Your Door Every Week
+        </td>
+        <td style="display:none !important;
+           visibility:hidden;
+           mso-hide:all;
+           font-size:1px;
+           color:#ffffff;
+           line-height:1px;
+           max-height:0px;
+           max-width:0px;
+           opacity:0;
+           overflow:hidden;">
+          &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+          &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+          &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+        </td>
+        <tr>
+          <td align="center" valign="top">
+            <table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+              <tr>
+                <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <!-- Header -->
+                    <tr>
+                      <td class="img-center" style="padding: 15px; font-size:0pt; line-height:0pt; text-align:center;">
+                        <a href="https://www.freshly.com/join-now/checkout?plan_id=422&amp;alternate_date=earliest_available&amp;utm_source=freshly&amp;utm_medium=email-acq&amp;utm_campaign=md-now-servicing&amp;offer=6for39-2x&amp;promo_code=opt-639-2x-acq&amp;email=lead_email&amp;zip=lead_zip"
+                          target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/logo.jpg" width="113" height="67" border="0" alt="" /></a>
+                      </td>
+                    </tr>
+                    <!-- END Header -->
+
+                    <!-- Intro -->
+                    <tr>
+                      <td background="https://d3e1l6fe66j64l.cloudfront.net/static_images/ACQUISITION/MD-Now-Servicing-V2/bg_1.jpg" bgcolor="#f7f7f9" valign="top" height="746" style="-webkit-background-size: cover; background-size: cover;" class="m-bg h-auto">
+                        <!--[if gte mso 9]>
+										<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px; height: 746px">
+											<v:fill type="frame" src="images/bg_1.jpg" color="#f7f7f9" />
+											<v:textbox inset="0,0,0,0">
+										<![endif]-->
+                        <div>
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td class="content-spacing" width="70" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+                              <td class="img p120-85-0" style="padding-top: 169px; font-size:0pt; line-height:0pt; text-align:left;">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td class="h1" style="padding-bottom: 8px; color:#003300; font-family:'oswald', 'Arial',sans-serif; font-size:43px; line-height:53px; text-align:center; min-width:auto !important; letter-spacing:1px;">WE’LL MEET YOU<br>AT YOUR DOOR
+</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td class="img-center" style="padding-bottom: 18px; font-size:0pt; line-height:0pt; text-align:center;">
+                                      <img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ACQUISITION/MD-Now-Servicing-V2/border_bottom.jpg" width="50" height="5" border="0" alt="" />
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td class="text pb-15" style="padding-bottom: 40px; color:#003300; font-family:'Roboto', Arial, sans-serif; font-size:18px; line-height:30px; text-align:center; font-weight:300; letter-spacing:1px;">Order today to reserve your <br> discount and delivery date!
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                              <td class="content-spacing" width="70" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+                            </tr>
+                          </table>
+                        </div>
+                        <!--[if gte mso 9]>
+											</v:textbox>
+											</v:rect>
+										<![endif]-->
+                      </td>
+                    </tr>
+                    <!-- END Intro -->
+
+                    <!-- Section -->
+                    <tr>
+                      <td class="img p30-15" style="padding: 15px 63px 40px; font-size:0pt; line-height:0pt; text-align:left;">
+                        <div style="margin-top: -342px;" class="mt-100">
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td class="img p30-15" style="padding: 39px 30px; box-shadow: 0 8px 14px 1px rgba(155, 155, 155, 0.78); font-size:0pt; line-height:0pt; text-align:left;" bgcolor="#4d8d6c">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td align="center" style="padding-bottom: 23px; ">
+                                      <table border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                          <td class="img" width="14" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ACQUISITION/MD-Now-Servicing-V2/img_left.png" width="14" height="21" border="0" alt="" /></td>
+                                          <td class="img" width="5" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                          <td class="title-1" style="color:#ffffff; font-family:'Oswald', 'Arial',sans-serif; font-size:27px; line-height:34px; text-align:center; min-width:auto !important; text-transform:uppercase; letter-spacing:2px; font-weight:500;">
+Eat better For less                                          </td>
+                                          <td class="img" width="5" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                          <td class="img" width="14" style="font-size:0pt; line-height:0pt; text-align:left;"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ACQUISITION/MD-Now-Servicing-V2/img_right.png" width="14" height="21" border="0" alt="" /></td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td class="h2 pb-15" style="padding-bottom: 21px; color:#ffffff; font-family:'Oswald', 'Arial',sans-serif; font-size:32px; line-height:42px; text-align:center; min-width:auto !important; text-transform:uppercase; letter-spacing:2px; font-weight:500;">
+                                      GET 6 MEALS FOR $39<br /> FOR TWO WEEKS
+                                    </td>
+                                  </tr>
+
+                                  <tr>
+                                    <td class="text-4" style="color:#ffffff; font-family:'Roboto', Arial, sans-serif; font-size:20px; line-height:30px; text-align:center; letter-spacing:1px;">
+                                      <em>
+																		1st order: 6 for $39 <strike>($59.99)</strike> <br /> 
+																		2nd order: 6 for $39 <strike>($59.99)</strike>
+																	</em>
+                                    </td>
+                                  </tr>
+
+                                  <!-- Button -->
+                                  <tr>
+                                    <td align="center" style="padding-top: 34px;" class="pt-25">
+                                      <table border="0" cellspacing="0" cellpadding="0" width="230">
+                                        <tr>
+                                          <td class="text-button-2" style="padding: 7px 5px; border-radius: 4px; color:#ffffff; font-family:'Oswald', 'Arial',sans-serif; font-size:24px; line-height:24px; text-align:center; min-width:auto !important; text-transform:uppercase; letter-spacing:1px;"
+                                            bgcolor="#33bb77">
+                                            <a href="https://www.freshly.com/join-now/checkout?plan_id=422&amp;alternate_date=earliest_available&amp;utm_source=freshly&amp;utm_medium=email-acq&amp;utm_campaign=md-now-servicing&amp;offer=6for39-2x&amp;promo_code=opt-639-2x-acq&amp;email=lead_email&amp;zip=lead_zip"
+                                              target="_blank" class="link-white" style="color:#ffffff; text-decoration:none;"><span class="link-white" style="color:#ffffff; text-decoration:none;">SAVE $40</span></a>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <!-- END Button -->
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </div>
+                      </td>
+                    </tr>
+                    <!-- END Section -->
+
+                    <!-- Top Rated -->
+                    <tr>
+                      <td class="img plr-15" style="padding: 20px 0 10px; font-size:0pt; line-height:0pt; text-align:left;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td class="h3 pb-15" style="padding-bottom: 28px; color:#000001; font-family:'Oswald', 'Arial',sans-serif; font-size:48px; line-height:53px; text-align:center; min-width:auto !important; text-transform:uppercase; letter-spacing:1px; font-weight:500;">
+                              TOP-RATED FAVES
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="img-center pb-15" style="padding-bottom: 29px; font-size:0pt; line-height:0pt; text-align:center;">
+                              <img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ACQUISITION/MD-Now-Servicing-V2/border_bottom.jpg" width="50" height="5" border="0" alt="" />
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="text-5" style="color:#000001; font-family:'Roboto', Arial, sans-serif; font-size:20px; line-height:30px; text-align:center; letter-spacing:1px;">
+                              A few recommendations to get you<span class="m-hide"><br /></span> started, all ready to eat in 3 minutes.
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+                        <a href="#" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ACQUISITION/MD-Now-Servicing-V2/img_1.jpg" width="600" height="429" border="0" alt="" /></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+                        <a href="#" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ACQUISITION/MD-Now-Servicing-V2/img_2.jpg" width="600" height="420" border="0" alt="" /></a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+                        <a href="#" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ACQUISITION/MD-Now-Servicing-V2/img_3.jpg" width="600" height="440" border="0" alt="" /></a>
+                      </td>
+                    </tr>
+
+                    <!-- Button -->
+                    <tr>
+                      <td align="center" style="padding-top: 17px; padding-bottom: 60px;" class="pb-30">
+                        <table border="0" cellspacing="0" cellpadding="0" width="230">
+                          <tr>
+                            <td class="text-button-2" style="padding: 7px 5px; border-radius: 4px; color:#ffffff; font-family:'Oswald', 'Arial',sans-serif; font-size:24px; line-height:24px; text-align:center; min-width:auto !important; text-transform:uppercase; letter-spacing:1px;"
+                              bgcolor="#33bb77">
+                              <a href="https://www.freshly.com/join-now/checkout?plan_id=422&amp;alternate_date=earliest_available&amp;utm_source=freshly&amp;utm_medium=email-acq&amp;utm_campaign=md-now-servicing&amp;offer=6for39-2x&amp;promo_code=opt-639-2x-acq&amp;email=lead_email&amp;zip=lead_zip"
+                                target="_blank" class="link-white" style="color:#ffffff; text-decoration:none;"><span class="link-white" style="color:#ffffff; text-decoration:none;">SAVE $40</span></a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- END Button -->
+                    <!-- END Top Rated -->
+
+                    <!-- Contact us -->
+                    <tr>
+                      <td class="img" style="padding: 33px 15px 23px; font-size:0pt; line-height:0pt; text-align:left;" bgcolor="#ececec">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td class="h4" style="padding-bottom: 16px; color:#385838; font-family:'Oswald', 'Arial',sans-serif; font-size:20px; line-height:24px; text-align:center; font-weight:bold; min-width:auto !important; text-transform:uppercase; letter-spacing:1px;">
+                              Contact Us
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="center">
+                              <table border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td class="img" width="49" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                    <a href="tel:+18443737459" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ico-phone.jpg" width="49" height="47" border="0" alt="" /></a>
+                                  </td>
+                                  <td class="content-spacing" width="50" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                  <td class="img" width="49" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                    <a href="mailto:support@freshly.com" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ico-mail.jpg" width="49" height="47" border="0" alt="" /></a>
+                                  </td>
+                                  <td class="content-spacing" width="50" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                  <td class="img" width="49" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                    <a href="https://www.freshly.com/contact?utm_source=freshly&utm_medium=email-acq&utm_campaign=footer&utm_content=ContactUs" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ico-message.jpg" width="49" height="47" border="0" alt="" /></a>
+                                  </td>
+                                  <td class="content-spacing" width="50" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                  <td class="img" width="49" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                    <a href="tel:+18443737459" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ico-mobile.jpg" width="49" height="47" border="0" alt="" /></a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- END Contact us -->
+
+                    <!-- Footer -->
+                    <tr>
+                      <td class="img" style="padding: 29px 15px; font-size:0pt; line-height:0pt; text-align:left;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td class="h4" style="padding-bottom: 20px; color:#385838; font-family:'Oswald', 'Arial',sans-serif; font-size:20px; line-height:24px; text-align:center; font-weight:bold; min-width:auto !important; text-transform:uppercase; letter-spacing:1px;">
+                              Let's connect
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="center" style="padding-bottom: 28px; ">
+                              <table border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td class="img" width="22" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                    <a href="https://www.facebook.com/freshly" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ico-facebook.jpg" width="22" height="22" border="0" alt="" /></a>
+                                  </td>
+                                  <td class="content-spacing" width="24" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                  <td class="img" width="1" bgcolor="#d7d7d7" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                  <td class="content-spacing" width="24" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                  <td class="img" width="22" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                    <a href="https://www.instagram.com/getfreshly/" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ico-instagram.jpg" width="22" height="22" border="0" alt="" /></a>
+                                  </td>
+                                  <td class="content-spacing" width="24" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                  <td class="img" width="1" bgcolor="#d7d7d7" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                  <td class="content-spacing" width="24" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                  <td class="img" width="22" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                    <a href="https://twitter.com/getfreshly" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/ico-twitter.jpg" width="22" height="22" border="0" alt="" /></a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="img-center" style="padding-bottom: 17px; font-size:0pt; line-height:0pt; text-align:center;">
+                              <a href="https://itunes.apple.com/us/app/freshly/id1195648107?mt=8" target="_blank"><img src="https://d3e1l6fe66j64l.cloudfront.net/static_images/btn_app_store.jpg" width="121" height="41" border="0" alt="" /></a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="footer-nav" style="padding-bottom: 15px; color:#2e2e2e; font-family:'Roboto', Arial, sans-serif; font-size:8px; line-height:13px; text-align:center; font-weight:bold; text-transform:uppercase;">
+                              <a href="https://www.freshly.com/privacy?mi_u=Email&utm_source=freshly&utm_medium=email-acq&utm_campaign=footer&utm_content=privacy-policy" target="_blank" class="link" style="color:#2e2e2e; text-decoration:none;"><span class="link" style="color:#2e2e2e; text-decoration:none;">Privacy Policy</span></a>                              &nbsp; | &nbsp; <a href="https://www.freshly.com/terms?utm_source=freshly&utm_medium=email-acq&utm_campaign=footer&utm_content=terms-and-conditions" target="_blank" class="link" style="color:#2e2e2e; text-decoration:none;"><span class="link" style="color:#2e2e2e; text-decoration:none;">Terms &amp; Conditions</span></a>                              &nbsp; | &nbsp; <a href="https://support.freshly.com/hc/en-us?utm_source=freshly&utm_medium=email-acq&utm_campaign=footer&utm_content=FAQ" target="_blank" class="link" style="color:#2e2e2e; text-decoration:none;"><span class="link" style="color:#2e2e2e; text-decoration:none;">FAQ</span></a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="footer-text" style="color:#003300; font-family:'Roboto', Arial, sans-serif; font-size:10px; line-height:17px; text-align:center; font-weight:normal;">
+                              Copyright 2018, Freshly. All&nbsp;rights&nbsp;reserved.<br /> 115 E. 23rd St., 7th Floor, New York, NY&nbsp;10010<br /><br />
+                              <a href="<%asm_group_unsubscribe_raw_url%>"><u>Unsubscribe</u></a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <!-- END Footer -->
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+    </table>
+  </body>
+
+</html>
