@@ -1,0 +1,682 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+
+  <head>
+    <!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="date=no" />
+    <meta name="format-detection" content="address=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <title>Newsletter Template week 6</title>
+    <!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+
+
+    <!--[if !mso]><!-->
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i|Roboto:400,400i,700,700i&amp;amp;display=swap');
+    </style>
+    <!--<![endif]-->
+
+    <style>
+      body {
+        padding: 0 !important;
+        margin: 0 auto !important;
+        display: block !important;
+        min-width: 100% !important;
+        width: 100% !important;
+        background: #ffffff;
+        -webkit-text-size-adjust: none
+      }
+
+      a {
+        color: #000001;
+        text-decoration: none
+      }
+
+      p {
+        padding: 0 !important;
+        margin: 0 !important
+      }
+
+      img {
+        margin: 0 !important;
+        -ms-interpolation-mode: bicubic;
+        /* Allow smoother rendering of resized image in Internet Explorer */
+      }
+
+      table {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+
+      img,
+      a img {
+        border: 0;
+        outline: none;
+        text-decoration: none;
+      }
+
+      #outlook a {
+        padding: 0;
+      }
+
+      .ReadMsgBody {
+        width: 100%;
+      }
+
+      .ExternalClass {
+        width: 100%;
+      }
+
+      div,
+      p,
+      a,
+      li,
+      td,
+      blockquote {
+        mso-line-height-rule: exactly;
+      }
+
+      a[href^=tel],
+      a[href^=sms] {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass td,
+      .ExternalClass div,
+      .ExternalClass span,
+      .ExternalClass font {
+        line-height: 100%;
+      }
+
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+
+      /* Mobile styles */
+      @media only screen and (max-width: 480px),
+      only screen and (max-width: 480px) {
+        .mpx-0 {
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .mpx-10 {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .mpb-45 {
+          padding-bottom: 45px !important;
+        }
+
+        .mpy-15 {
+          padding-top: 15px !important;
+          padding-bottom: 15px !important;
+        }
+
+        .mpx-20 {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+
+        .mpb-12 {
+          padding-bottom: 12px !important;
+        }
+
+        u+.body .gwfw {
+          width: 100% !important;
+          width: 100vw !important;
+        }
+
+        .td,
+        .m-shell {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+
+        .mt-left {
+          text-align: left !important;
+        }
+
+        .mt-center {
+          text-align: center !important;
+        }
+
+        .mt-right {
+          text-align: right !important;
+        }
+
+        .me-left {
+          margin-right: auto !important;
+        }
+
+        .me-center {
+          margin: 0 auto !important;
+        }
+
+        .me-right {
+          margin-left: auto !important;
+        }
+
+        .mh-auto {
+          height: auto !important;
+        }
+
+        .mw-auto {
+          width: auto !important;
+        }
+
+        .fluid-img img {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+        }
+
+        .column,
+        .column-top {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+
+        .kmMobileStretch {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+
+        .m-hide {
+          display: none !important;
+          width: 0 !important;
+          height: 0 !important;
+          font-size: 0 !important;
+          line-height: 0 !important;
+          min-height: 0 !important;
+        }
+
+        .m-block {
+          display: block !important;
+        }
+
+        .mw-15 {
+          width: 15px !important;
+        }
+
+        .mw-240 {
+          width: 240px !important;
+        }
+
+        .mw-255 {
+          width: 255px !important;
+        }
+
+        .mw-2p {
+          width: 2% !important;
+        }
+
+        .mw-32p {
+          width: 32% !important;
+        }
+
+        .mw-49p {
+          width: 49% !important;
+        }
+
+        .mw-50p {
+          width: 50% !important;
+        }
+
+        .mw-100p {
+          width: 100% !important;
+        }
+      }
+    </style>
+  </head>
+
+  <body class="body" style="padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#F7F7F7; -webkit-text-size-adjust:none;">
+    <center>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0; width: 100%; height: 100%;" bgcolor="#F7F7F7" class="gwfw">
+        <tbody>
+          <tr>
+            <td style="margin: 0; padding: 0; width: 100%; height: 100%;" align="center" valign="top">
+              <table width="600" bord="" er="0" cellspacing="0" cellpadding="0" class="m-shell">
+                <tbody>
+                  <tr>
+                    <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <!-- Preview Text -->
+                        <tbody>
+                          <tr class="m-hide">
+                            <td class="text-8 a-center c-white" style="font-size:8px; line-height:10px; font-family:'Roboto', Arial, sans-serif; min-width:auto !important; text-align:center; color:#ffffff;">
+                            </td>
+                          </tr>
+                          <!-- END Preview Text -->
+
+                          <!-- Fix to prevent preview email content after the subject -->
+                          <tr>
+                            <td class="img" style="font-size:0pt; line-height:0pt; text-align:left;">Plus, learn the facts about dairy and your immune system
+                                ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌   ‌
+                            </td>
+                          </tr>
+                          <!-- END Fix to prevent preview email content after the subject -->
+
+                          <!-- Header -->
+                          <tr>
+                            <td class="img-center pt-45 pb-30" style="font-size:0pt; line-height:0pt; text-align:center; padding-top: 45px; padding-bottom: 30px; background: #FFFFFF;" bgcolor="#FFFFFF" "=""><a href=" #" target="_blank">
+                              <img src="https://assets.mailcharts.com/emails/images/2f59286d43979716a386c3d6bada4ea5ad817028.png" width="235" height="88" border="0" alt="prepped by Freshly" data-mc-image-bytes="13611" data-mc-width="235" data-mc-height="88" data-mc-natural-width="470" data-mc-natural-height="176" />
+                              </a></td>
+                          </tr>
+                          <!-- END Header -->
+                          <!-- Main Content -->
+                        </tbody>
+                      </table>
+                      <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #FFFFFF;" bgcolor="#FFFFFF" width="100%">
+                        <tbody>
+                          <tr>
+                            <td class="px-20 pb-40" style="padding-left: 0px; padding-right: 0px; padding-bottom: 40px;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="mw-240 me-center">
+
+
+
+
+
+
+                                <tbody>
+                                  <tr>
+                                    <td class="fluid-img pb-20" style="font-size:0pt; line-height:0pt; text-align:center; padding-bottom: 20px;">
+                                      <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/895c63b2791df8964f7816b642b30bd8de457bf6.jpeg" width="560" border="0" alt="" data-mc-image-bytes="1842586" data-mc-width="240" data-mc-height="160" data-mc-natural-width="3600" data-mc-natural-height="2400" />
+                                      </a></td>
+                                  </tr>
+                                  <tr>
+                                    <td class="title-18 lh-25 a-center c-green pb-10 px-110 mpx-0" style="font-size:18px; font-family:'Roboto Mono', 'Courier New', 'Consolas', 'Lucida Sans Typewriter', Arial, sans-serif; font-weight:normal; min-width:auto !important; line-height: 25px; text-align:center; color:#275959; padding-bottom: 10px; padding-left: 90px; padding-right: 90px;">
+                                      <strong>How Freshly Uses Customer Data to Influence Meal Development — In Real Time</strong>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td class="text-16 a-center c-green ff-r pb-20 px-70 mpx-10" style="font-size:16px; line-height:20px; min-width:auto !important; text-align:center; color:#275959; font-family:'Roboto', Arial, sans-serif; padding-bottom: 20px; padding-left: 50px; padding-right: 50px;">
+                                      Meet Emily Buckley, the leader of our meal development process, who's obsessed with getting the flavors just right before meals get to your door.
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td class="img-center pb-20" style="font-size:0pt; line-height:0pt; text-align:center; padding-bottom: 20px;">
+                                      <!-- Button -->
+                                      <table width="140" border="0" cellspacing="0" cellpadding="0" align="center">
+                                        <tbody>
+                                          <tr>
+                                            <td class="btn-12" bgcolor="#234f4f" style="font-size:12px; line-height:33px; mso-line-height-alt:16px; mso-padding-alt:7px; color:#000001; font-family:'Roboto Mono', 'Consolas', 'Lucida Sans Typewriter', 'Trebuchet MS', Arial, sans-serif; text-align:center; min-width:auto !important;">
+                                              <a href="#" target="_blank" class="link c-yellow" style="display: block; padding: 0 7px; text-decoration:none; color:#f9f8eb;">
+                                                <span class="link c-yellow" style="text-decoration:none; color:#f9f8eb; text-transform: uppercase;"><strong>Read On</strong>  <img src="https://assets.mailcharts.com/emails/images/bee7cb377e6c831252594d503ac69e95ffcc63e4.png" style="display: inline-block; padding-bottom: 4px; vertical-align: middle;" width="7" height="12" border="0" alt="" data-mc-image-bytes="349" data-mc-width="7" data-mc-height="12" data-mc-natural-width="14" data-mc-natural-height="24" /></span>
+                                              </a>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <!-- END Button -->
+
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                          <!-- END Main Content -->
+                          <!-- Intro -->
+                          <tr>
+                            <td class="px-70 pb-60 mpx-0 mpb-45" style="padding-left: 70px; padding-right: 70px; padding-bottom: 60px;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="mw-255 me-center">
+                                <tbody>
+                                  <tr>
+                                    <td class="pb-20" align="center" style="padding-bottom: 20px;">
+                                      <table width="35" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                          <tr>
+                                            <td style="font-size: 0pt; line-height: 0pt;" height="2" bgcolor="#000000"> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td class="title-25 lh-33 a-center pb-25" style="font-size:25px; color:#000001; font-family:'Roboto Mono', 'Courier New', 'Consolas', 'Lucida Sans Typewriter', Arial, sans-serif; font-weight:normal; min-width:auto !important; line-height: 33px; text-align:center; padding-bottom: 25px;">
+                                      Customer feedback is crucial at Freshly. We use customer ratings to constantly optimize our meals to make them more delicious and nutritious.
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td align="center">
+                                      <table width="35" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                          <tr>
+                                            <td style="font-size: 0pt; line-height: 0pt;" height="2" bgcolor="#000000"> </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                          <!-- END Intro -->
+                          <!-- 2 Cols - Small Content - 1 -->
+                          <!-- 2 Cols - Small Content - 1 -->
+                          <tr>
+                            <td class="pb-30 px-20" style="padding-bottom: 30px; padding-left: 20px; padding-right: 20px;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="mw-240 me-center" bgcolor="#f0f0f0">
+                                <tbody>
+                                  <tr>
+                                    <th class="column-top fluid-img" width="238" style="padding:0; margin:0; font-weight:normal; vertical-align:top; font-size:0pt; line-height:0pt; text-align:left;">
+                                      <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/2be323322219b7aca4b20b1b81ce1b9d7e95de21.png" width="238" border="0" alt="" data-mc-image-bytes="562326" data-mc-width="240" data-mc-height="180" data-mc-natural-width="1440" data-mc-natural-height="1080" />
+                                      </a></th>
+                                    <th class="column" width="322" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                          <tr>
+                                            <td class="py-10 px-40 mpy-15 mpx-20" style="padding-top: 10px; padding-bottom: 10px; padding-left: 40px; padding-right: 40px;">
+                                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="title-16 lh-23 c-green pb-18" style="font-size:16px; font-family:'Roboto Mono', 'Courier New', 'Consolas', 'Lucida Sans Typewriter', Arial, sans-serif; text-align:left; font-weight:normal; min-width:auto !important; line-height: 23px; color:#275959; padding-bottom: 18px;">
+                                                      <strong>11 Gadgets That Make Eating Healthy Way Easier</strong>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="mpb-12" align="left">
+                                                      <!-- Button -->
+                                                      <table width="140" border="0" cellspacing="0" cellpadding="0">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td class="btn-12" bgcolor="#234f4f" style="font-size:12px; line-height:33px; mso-line-height-alt:16px; mso-padding-alt:7px; color:#f9f8eb; font-family:'Roboto Mono', 'Consolas', 'Lucida Sans Typewriter', 'Trebuchet MS', Arial, sans-serif; text-align:center; min-width:auto !important;">
+                                                              <a href="#" target="_blank" class="link c-green" style="display: block; padding: 0 7px; text-decoration:none; color:#275959;">
+                                                                <span class="link c-green" style="text-decoration:none; text-transform: uppercase;color:#f9f8eb;"><strong>Life, Hacked </strong>  <img src="https://assets.mailcharts.com/emails/images/13077bf92ac76a5e56909580d46e0c1558fe94b8.png" style="display: inline-block; padding-bottom: 4px; vertical-align: middle;" width="10" height="14" border="0" alt="" data-mc-image-bytes="349" data-mc-width="10" data-mc-height="14" data-mc-natural-width="14" data-mc-natural-height="24" /></span>
+                                                              </a>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                      <!-- END Button -->
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </th>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                          <!-- END 2 Cols - Small Content - 1 -->
+                          <!-- END 2 Cols - Small Content - 1 -->
+                          <!-- 2 Cols - Small Content - 2 -->
+                          <!-- END 2 Cols - Small Content - 1 -->
+                          <tr>
+                            <td class="pb-30 px-20" style="padding-bottom: 30px; padding-left: 20px; padding-right: 20px;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="mw-240 me-center" bgcolor="#f5f2dd">
+                                <tbody>
+                                  <tr>
+                                    <th class="column-top fluid-img" width="238" height="auto" style="padding:0; margin:0; font-weight:normal; vertical-align:top; font-size:0pt; line-height:0pt; text-align:left;">
+                                      <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/29fc29fd04812a2867ba10db55b404cfdcf4fc1b.jpeg" width="238" border="0" alt="" data-mc-image-bytes="284103" data-mc-width="240" data-mc-height="180" data-mc-natural-width="1440" data-mc-natural-height="1080" />
+                                      </a></th>
+                                    <th class="column" width="322" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                          <tr>
+                                            <td class="py-10 px-40 mpy-15 mpx-20" style="padding-top: 10px; padding-bottom: 10px; padding-left: 40px; padding-right: 40px;">
+                                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="title-16 lh-23 c-green pb-18" style="font-size:16px; font-family:'Roboto Mono', 'Courier New', 'Consolas', 'Lucida Sans Typewriter', Arial, sans-serif; text-align:left; font-weight:normal; min-width:auto !important; line-height: 23px; color:#275959; padding-bottom: 18px;">
+                                                      <strong>The Good, the Bad and the Cheesy Facts about Limiting Dairy</strong>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="mpb-12" align="left">
+                                                      <!-- Button -->
+                                                      <table width="140" border="0" cellspacing="0" cellpadding="0">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td class="btn-12" bgcolor="#234f4f" style="font-size:12px; line-height:33px; mso-line-height-alt:16px; mso-padding-alt:7px; color:#000001; font-family:'Roboto Mono', 'Consolas', 'Lucida Sans Typewriter', 'Trebuchet MS', Arial, sans-serif; text-align:center; min-width:auto !important;">
+                                                              <a href="#" target="_blank" class="link c-yellow" style="display: block; padding: 0 7px; text-decoration:none; color:#f9f8eb;">
+                                                                <span class="link c-yellow" style="text-decoration:none; color:#f9f8eb;"><strong>GET THE FACTS <img src="https://assets.mailcharts.com/emails/images/13077bf92ac76a5e56909580d46e0c1558fe94b8.png" style="display: inline-block; padding-bottom: 4px; vertical-align: middle;" width="7" height="12" border="0" alt="" data-mc-image-bytes="349" data-mc-width="7" data-mc-height="12" data-mc-natural-width="14" data-mc-natural-height="24" /></strong></span><strong>
+																							</strong></a><strong>
+																						</strong></td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                      <!-- END Button -->
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </th>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                          <!-- END 2 Cols - Small Content - 2 -->
+
+                          <!-- END 2 Cols - Small Content - 2 -->
+                          <!-- 2 Cols - Small Content - 3 -->
+                          <tr>
+                            <td class="pb-30 px-20" style="padding-bottom: 30px; padding-left: 20px; padding-right: 20px;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="mw-240 me-center" bgcolor="#f0f0f0">
+                                <tbody>
+                                  <tr>
+                                    <th class="column-top fluid-img" width="238" height="auto" style="padding:0; margin:0; font-weight:normal; vertical-align:top; font-size:0pt; line-height:0pt; text-align:left;">
+                                      <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/97d882a6cf0f9e9547eff7eda99fcdaa91b4190a.png" width="238" border="0" alt="" data-mc-image-bytes="249658" data-mc-width="240" data-mc-height="180" data-mc-natural-width="600" data-mc-natural-height="450" />
+                                      </a></th>
+                                    <th class="column" width="322" style="font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                          <tr>
+                                            <td class="py-10 px-40 mpy-15 mpx-20" style="padding-top: 10px; padding-bottom: 10px; padding-left: 40px; padding-right: 40px;">
+                                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="title-16 lh-23 c-green pb-18" style="font-size:16px; font-family:'Roboto Mono', 'Courier New', 'Consolas', 'Lucida Sans Typewriter', Arial, sans-serif; text-align:left; font-weight:normal; min-width:auto !important; line-height: 23px; color:#275959; padding-bottom: 18px;">
+                                                      <strong>The Easiest Ways to Heat and Eat Your Meals</strong>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="mpb-12" align="left">
+                                                      <!-- Button -->
+                                                      <table width="140" border="0" cellspacing="0" cellpadding="0">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td class="btn-12" bgcolor="#234f4f" style="font-size:12px; line-height:33px; mso-line-height-alt:16px; mso-padding-alt:7px; color:#000001; font-family:'Roboto Mono', 'Consolas', 'Lucida Sans Typewriter', 'Trebuchet MS', Arial, sans-serif; text-align:center; min-width:auto !important;">
+                                                              <a href="#" target="_blank" class="link c-yellow" style="display: block; padding: 0 7px; text-decoration:none; color:#f9f8eb;">
+                                                                <span class="link c-yellow" style="text-decoration:none; color:#f9f8eb;"><strong>DING DING <img src="https://assets.mailcharts.com/emails/images/13077bf92ac76a5e56909580d46e0c1558fe94b8.png" style="display: inline-block; padding-bottom: 4px; vertical-align: middle;" width="7" height="12" border="0" alt="" data-mc-image-bytes="349" data-mc-width="7" data-mc-height="12" data-mc-natural-width="14" data-mc-natural-height="24" /></strong></span><strong>
+																							</strong></a><strong>
+																						</strong></td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                      <!-- END Button -->
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </th>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                          <!-- END 2 Cols - Small Content - 3 -->
+
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; background: #ffffff;" bgcolor="#ffffff" width="600">
+                <tbody>
+                  <tr>
+                    <td align="center">
+                      <!-- Contact us -->
+                      <table align="center" border="0" cellpadding="0" cellspacing="0" style="background: #ffffff; width:100%; max-width: 600px;" width="600" class="w100" bgcolor="#ffffff">
+                        <tbody>
+                          <tr>
+                            <td class="img" style="padding: 33px 15px 23px; font-size:0pt; line-height:0pt; text-align:left;" bgcolor="#ececec">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                  <tr>
+                                    <td class="h4" style="padding-bottom: 16px; color:#385838; font-family:'Pathway Gothic One', 'Arial Narrow',sans-serif; font-size:20px; line-height:24px; text-align:center; font-weight:bold; min-width:auto !important; text-transform:uppercase; letter-spacing:1px;">
+                                      Contact Us 24/7
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td align="center">
+                                      <table border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                          <tr>
+                                            <td class="img" width="49" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                              <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/b5e2df827dd826cd049ed8795a852806a77e2384.jpeg" width="49" height="47" border="0" alt="" data-mc-image-bytes="2866" data-mc-width="49" data-mc-height="47" data-mc-natural-width="104" data-mc-natural-height="102" /></a>
+                                            </td>
+                                            <td class="content-spacing" width="50" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                            <td class="img" width="49" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                              <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/e6489cbdba15a91d25d98b7a037c8efe4a28ed14.jpeg" width="49" height="47" border="0" alt="" data-mc-image-bytes="2533" data-mc-width="49" data-mc-height="47" data-mc-natural-width="104" data-mc-natural-height="102" /></a>
+                                            </td>
+                                            <td class="content-spacing" width="50" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                            <td class="img" width="49" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                              <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/bf9ea0ff953d7ec28c64a5ada62b7298daf46a4a.jpeg" width="49" height="47" border="0" alt="" data-mc-image-bytes="2947" data-mc-width="49" data-mc-height="47" data-mc-natural-width="104" data-mc-natural-height="102" /></a>
+                                            </td>
+                                            <td class="content-spacing" width="50" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                            <td class="img" width="49" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                              <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/83e22404bf31d8313ebb3a242ea36d35867535d0.jpeg" width="49" height="47" border="0" alt="" data-mc-image-bytes="2876" data-mc-width="49" data-mc-height="47" data-mc-natural-width="104" data-mc-natural-height="102" /></a>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                          <!-- END Contact us -->
+                        </tbody>
+                      </table>
+
+                      <!-- Footer -->
+                      <table align="center" border="0" cellpadding="0" cellspacing="0" style="background: #ffffff; width:100%; max-width: 600px;" width="600" class="w100" bgcolor="#ffffff">
+                        <tbody>
+                          <tr style="border: 0; border-collapse: collapse; border-spacing: 0">
+                            <td align="center">
+                              <table cellpadding="0" cellspacing="0" style="border: 0 none; border-collapse: collapse; background: #ffffff; width:100%; max-width: 600px;" width="600" bgcolor="#ffffff">
+                                <tbody>
+                                  <tr>
+                                    <td align="center" style="color:#385838 !important; font-family: Arial; font-size: 17px; font-style: normal; line-height: 24px; letter-spacing: 1px; text-align: center; text-shadow: none; padding-bottom: 16px; padding-top: 25px; font-weight:bold;">
+                                      LET'S CONNECT
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table cellpadding="0" cellspacing="0" style="border: 0 none; border-collapse: collapse; background: #ffffff; width: 184px;" width="184" bgcolor="#ffffff" align="center">
+                                <tbody>
+                                  <tr>
+                                    <td align="left" bgcolor="#FFFFFF" height="48" style="height: 48px; width: 57px; line-height: 0px; mso-line-height-rule: exactly; background: #FFFFFF;" valign="top" width="57">
+                                      <a href="#" target="_blank" title="Facebook"><img border="0" src="https://assets.mailcharts.com/emails/images/ef85c13104a1ac476c1a0b5c5c61a9e7e876c5ab.jpeg" alt="Facebook" style="border: 0; display: block; line-height: 0; height: 48px; width: 57px;" width="57" data-mc-image-bytes="2200" data-mc-width="57" data-mc-height="48" data-mc-natural-width="57" data-mc-natural-height="48" /></a>
+                                    </td>
+                                    <td align="left" bgcolor="#FFFFFF" height="48" style="height: 48px; width: 70px; line-height: 0px; mso-line-height-rule: exactly; background: #FFFFFF;" valign="top" width="70">
+                                      <a href="#" target="_blank" title="Instagram"><img border="0" src="https://assets.mailcharts.com/emails/images/9a00e822853412d7939fede3269fbeace6db2071.jpeg" alt="Instagram" style="border: 0; display: block; line-height: 0; height: 48px; width: 70px;" width="70" data-mc-image-bytes="2576" data-mc-width="70" data-mc-height="48" data-mc-natural-width="70" data-mc-natural-height="48" /></a>
+                                    </td>
+                                    <td align="left" bgcolor="#FFFFFF" height="48" style="height: 48px; width: 57px; line-height: 0px; mso-line-height-rule: exactly; background: #FFFFFF;" valign="top" width="57">
+                                      <a href="#" target="_blank" title="Twitter"><img border="0" src="https://assets.mailcharts.com/emails/images/2a9b81324dcff880f8fb498db5245c395c0a6208.jpeg" alt="Twitter" style="border: 0; display: block; line-height: 0; height: 48px; width: 57px;" width="57" data-mc-image-bytes="1611" data-mc-width="57" data-mc-height="48" data-mc-natural-width="57" data-mc-natural-height="48" /></a>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table cellpadding="0" cellspacing="0" style="border: 0 none; border-collapse: collapse; background: #ffffff; width: 184px;" width="184" bgcolor="#ffffff" align="center">
+                                <tbody>
+                                  <tr>
+                                    <td align="left" bgcolor="#FFFFFF" height="auto" style="height: auto; width: 150px; line-height: 0px; mso-line-height-rule: exactly; background: #FFFFFF; padding: 16px 20px 16px;" valign="top" width="150">
+                                      <a href="#" target="_blank" title="Itunes"><img border="0" src="https://assets.mailcharts.com/emails/images/b22f500258789c52243e598bfdb2a7787a368d62.png" alt="Twitter" style="border: 0; display: block; line-height: 0; height: auto; width: 150px;" width="150" data-mc-image-bytes="4995" data-mc-width="150" data-mc-height="50" data-mc-natural-width="240" data-mc-natural-height="80" /></a>
+                                    </td>
+                                    <td align="center" bgcolor="#FFFFFF" height="auto" style="height: auto; width: 150px; line-height: 0px; mso-line-height-rule: exactly; background: #FFFFFF; padding: 16px 0 16px;" valign="top" width="150">
+                                      <a href="#" target="_blank" title="Google Play"><img border="0" src="https://assets.mailcharts.com/emails/images/a9ca345586da3701f1f47300b8ee8c7e852dd659.jpeg" alt="Twitter" style="border: 0; display: block; line-height: 0; height: auto; width: 165px;" width="165" data-mc-image-bytes="12142" data-mc-width="165" data-mc-height="50" data-mc-natural-width="268" data-mc-natural-height="81" /></a>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <table cellpadding="0" cellspacing="0" style="border: 0 none; border-collapse: collapse; background: #ffffff; width:80%; max-width: 500px;" width="500" bgcolor="#ffffff">
+                                <tbody>
+                                  <tr>
+                                    <td align="center" style="color: #000000 !important; font-family: Arial; font-size: 10px; font-style: normal; line-height: 14px; text-align: center; text-shadow: none; padding-bottom: 16px; padding-top: 16px;" width="600" class="w100">
+
+                                      <strong><a href="#" style="color: #000000 !important;  text-decoration: none">PRIVACY POLICY</a> | <a href="#" style="color: #000000 !important;  text-decoration: none">TERMS &amp; CONDITIONS</a> | <a href="#" style="color: #000000 !important; text-decoration: none;">FAQ</a> </strong>
+
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td align="center" style="color: #000000 !important; font-family: Arial; font-size: 10px; font-style: normal; line-height: 14px; text-align: center; text-shadow: none; padding-bottom: 16px;" width="600" class="w100">
+                                      ©Copyright 2020 Freshly, Inc. All rights reserved<br />
+                                      115 E 23rd St., 7th Floor, New York, NY 10010
+                                      <br />
+                                      <br />
+                                      If you prefer not to receive emails like this from Freshly, you may unsubscribe <a href="#">here</a>.
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- END Footer -->
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+
+
+    </center>
+
+ 
+
+  </body>
+
+</html>
