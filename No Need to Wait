@@ -1,0 +1,962 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!----------------STEP 1 ---------------->
+<!--********** Change These to Make your Life Easy ********-->
+<!-- Leads or Active or Reactivate-->
+<!-- 'core' or 'fit' or contact.brands-->
+<!-- Change code or delete all in '' if no promo-->
+<!-- Preheader except personalization-->
+<!-- Center or Left-->
+<!-- Yes or No-->
+<!-- Mareting or Transactional-->
+<!-- Mareting or Transactional-->
+<!----------------STEP 2 ---------------->
+<!--********** Change Link Here as Linkz********-->
+<!-- Change link as needed-->
+<!----------------STEP 4 ---------------->
+<!--**********If using a promo use Gmail Annotations Then set Offer Below********-->
+<!-- Yes or No-->
+<!-- Start Gmail Promo Tab annotations code will need to update to use-->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+  <head>
+    <!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="date=no" />
+    <meta name="format-detection" content="address=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <!--[if !mso]><!-->
+    <!--<![endif]-->
+    <title>Email Template</title>
+    <!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+
+
+    <style>
+      body {
+        padding: 0 !important;
+        margin: 0 auto !important;
+        display: block !important;
+        min-width: 100% !important;
+        width: 100% !important;
+        background: #fffdf7;
+        -webkit-text-size-adjust: none
+      }
+
+      a {
+        color: #2a6dff;
+        text-decoration: none
+      }
+
+      p {
+        padding: 0 !important;
+        margin: 0 !important
+      }
+
+      img {
+        margin: 0 !important;
+        -ms-interpolation-mode: bicubic;
+        /* Allow smoother rendering of resized image in Internet Explorer */
+      }
+
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: inherit !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+
+      .btn-18-cream:hover,
+      .btn-21-cream:hover {
+        background-color: #2a6dff !important;
+      }
+
+      .btn-18-cream:hover a,
+      .btn-21-cream:hover a,
+      .btn-18-cream:hover span,
+      .btn-21-cream:hover span {
+        color: #fffdf7 !important;
+      }
+
+      .btn-18-blue:hover,
+      .btn-21-blue:hover {
+        border: 1px solid #2a6dff !important;
+        background-color: #fffdf7 !important;
+      }
+
+      .btn-18-blue:hover a,
+      .btn-21-blue:hover a,
+      .btn-18-blue:hover span,
+      .btn-21-blue:hover span {
+        color: #2a6dff !important;
+      }
+
+      .btn-18-cream a {
+        display: block;
+        padding: 10px 28px;
+        text-decoration: none;
+      }
+
+      .btn-18-blue a {
+        display: block;
+        padding: 10px 28px;
+        text-decoration: none;
+      }
+
+      .btn-21-cream a {
+        display: block;
+        padding: 16px 34px;
+        text-decoration: none;
+      }
+
+      .btn-21-blue a {
+        display: block;
+        padding: 16px 34px;
+        text-decoration: none;
+      }
+
+      .btn-18 .bg-fix {
+        background: none !important;
+      }
+
+      .l-red a {
+        color: #ff0000;
+      }
+
+      /* Mobile styles */
+      @media only screen and (max-width: 480px),
+      only screen and (max-width: 480px) {
+        .mpx-30 {
+          padding-left: 30px !important;
+          padding-right: 30px !important;
+        }
+
+        .mpx-32 {
+          padding-left: 32px !important;
+          padding-right: 32px !important;
+        }
+
+        .mpx-34 {
+          padding-left: 34px !important;
+          padding-right: 34px !important;
+        }
+
+        .mpl-34 {
+          padding-left: 34px !important;
+        }
+
+        .mpr-34 {
+          padding-right: 34px !important;
+        }
+
+        .mfz-12 {
+          font-size: 12px !important;
+        }
+
+        .mlh-16 {
+          line-height: 16px !important;
+        }
+
+        .mpy-30 {
+          padding-top: 30px !important;
+          padding-bottom: 30px !important;
+        }
+
+        .mpx-20 {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+
+        .mpy-20 {
+          padding-top: 20px !important;
+          padding-bottom: 20px !important;
+        }
+
+        .mpb-24 {
+          padding-bottom: 24px !important;
+        }
+
+        .mpb-20 {
+          padding-bottom: 20px !important;
+        }
+
+        .mpy-14 {
+          padding-top: 14px !important;
+          padding-bottom: 14px !important;
+        }
+
+        .mpx-15 {
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+        }
+
+        .mpb-39 {
+          padding-bottom: 39px !important;
+        }
+
+        .mpb-32 {
+          padding-bottom: 32px !important;
+        }
+
+        .mpb-28 {
+          padding-bottom: 28px !important;
+        }
+
+        .mpb-14 {
+          padding-bottom: 14px !important;
+        }
+
+        .mpb-0 {
+          padding-bottom: 0px !important;
+        }
+
+        .mpx-0 {
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .mpy-0 {
+          padding-top: 0px !important;
+          padding-bottom: 0px !important;
+        }
+
+        .mpt-34 {
+          padding-top: 34px !important;
+        }
+
+        .mpb-8 {
+          padding-bottom: 8px !important;
+        }
+
+        .mpy-24 {
+          padding-top: 24px !important;
+          padding-bottom: 24px !important;
+        }
+
+        .mpx-10 {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+
+        .mpb-38 {
+          padding-bottom: 38px !important;
+        }
+
+        .mpb-16 {
+          padding-bottom: 16px !important;
+        }
+
+        .mpy-27 {
+          padding-top: 27px !important;
+          padding-bottom: 27px !important;
+        }
+
+        .mpb-25 {
+          padding-bottom: 25px !important;
+        }
+
+        .mpy-33 {
+          padding-top: 33px !important;
+          padding-bottom: 33px !important;
+        }
+
+        .mpb-37 {
+          padding-bottom: 37px !important;
+        }
+
+        .mpb-32 {
+          padding-bottom: 32px !important;
+        }
+
+        .mpt-12 {
+          padding-top: 12px !important;
+        }
+
+        .mpb-12 {
+          padding-bottom: 12px !important;
+        }
+
+        .mfz-14 {
+          font-size: 14px !important;
+        }
+
+        .mfz-20 {
+          font-size: 20px !important;
+        }
+
+        .mfz-24 {
+          font-size: 24px !important;
+        }
+
+        .mfz-26 {
+          font-size: 26px !important;
+        }
+
+        .mfz-28 {
+          font-size: 28px !important;
+        }
+
+        .mfz-30 {
+          font-size: 30px !important;
+        }
+
+        .mfz-38 {
+          font-size: 38px !important;
+        }
+
+        .mlh-24 {
+          line-height: 24px !important;
+        }
+
+        .mlh-25 {
+          line-height: 25px !important;
+        }
+
+        .mlh-28 {
+          line-height: 28px !important;
+        }
+
+        .mlh-31 {
+          line-height: 31px !important;
+        }
+
+        .mlh-32 {
+          line-height: 32px !important;
+        }
+
+        .mlh-35 {
+          line-height: 35px !important;
+        }
+
+        .mlh-36 {
+          line-height: 36px !important;
+        }
+
+        .mlh-40 {
+          line-height: 40px !important;
+        }
+
+        .mlh-18 {
+          line-height: 18px !important;
+        }
+
+        .mfz-17 {
+          font-size: 17px !important;
+        }
+
+        .mfz-18 {
+          font-size: 18px !important;
+        }
+
+        .mlh-22 {
+          line-height: 22px !important;
+        }
+
+        u+.body .gwfw {
+          width: 100% !important;
+          width: 100vw !important;
+        }
+
+        .td,
+        .m-shell {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+
+        .mt-left {
+          text-align: left !important;
+        }
+
+        .mt-center {
+          text-align: center !important;
+        }
+
+        .mt-right {
+          text-align: right !important;
+        }
+
+        .me-left {
+          margin-right: auto !important;
+        }
+
+        .me-center {
+          margin: 0 auto !important;
+        }
+
+        .me-right {
+          margin-left: auto !important;
+        }
+
+        .h-auto {
+          height: auto !important;
+        }
+
+        .w-auto {
+          width: auto !important;
+        }
+
+        .fluid-img img {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+        }
+
+        .column,
+        .column-top,
+        .column-dir,
+        .column-dir-top {
+          float: left !important;
+          width: 100% !important;
+          display: block !important;
+        }
+
+        .m-hide {
+          display: none !important;
+          width: 0 !important;
+          height: 0 !important;
+          font-size: 0 !important;
+          line-height: 0 !important;
+          min-height: 0 !important;
+        }
+
+        .m-block {
+          display: block !important;
+        }
+
+        /*Width*/
+        .w-15 {
+          width: 15px !important;
+        }
+
+        .w-20 {
+          width: 20px !important;
+          height: auto !important;
+        }
+
+        .w-100 {
+          width: 100px !important;
+          height: auto !important;
+        }
+
+        .w-100 img {
+          width: 100px !important;
+          height: auto !important;
+        }
+
+        .br-0 {
+          border: 0 !important;
+        }
+
+        .hide-for-desktop {
+          display: block !important;
+          max-width: 100% !important;
+          max-height: 100% !important;
+          visibility: visible !important;
+          opacity: 1 !important;
+          width: auto !important;
+          height: auto !important;
+        }
+
+        .w-2p {
+          width: 2% !important;
+        }
+
+        .w-32p {
+          width: 32% !important;
+        }
+
+        .w-49p {
+          width: 49% !important;
+        }
+
+        .w-50p {
+          width: 50% !important;
+        }
+
+        .w-100p {
+          width: 100% !important;
+        }
+
+        /*Text*/
+
+      }
+    </style>
+  </head>
+
+  <body class="body" style="padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#fffdf7; -webkit-text-size-adjust:none;">
+    <center>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0; width: 100%;" bgcolor="#F7F7F7" class="gwfw">
+        <tbody>
+          <tr>
+            <!-- Fix to prevent preview email content after the subject -->
+          </tr>
+          <tr class="m-hide" style="mso-hide: all;">
+            <td style="font-size: 0pt; line-height: 0pt;">
+
+              Get 4 weeks of dinners for just $6.16 Each
+
+               ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+            </td>
+          </tr>
+          <!-- END Fix to prevent preview email content after the subject -->
+          <tr>
+            <td style="margin: 0; padding: 0; width: 100%;" align="center">
+              <table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+                <tbody>
+                  <tr>
+                    <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+
+                      <!-- NAVIGATION -->
+                      <!-- NAVIGATION  -->
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody>
+                          <tr>
+                            <td class="pb-97" bgcolor="#{{ Color }}" style="padding-bottom: 0px;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                  <tr>
+                                    <td class="py-24 px-50 mpx-30" bgcolor="#03514e" style="padding-top: 24px; padding-bottom: 24px; padding-left: 50px; padding-right: 50px;">
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                          <tr>
+
+                                            <td class="img-center" style="font-size:0pt; line-height:0pt; text-align:center;"><a href="#" target="_blank">
+
+                                                <img src="https://assets.mailcharts.com/emails/images/216b87cdcefb50603c01f2d5ae540a5d6d1a9b76.png" width="auto" height="35" border="0" alt="" data-mc-image-bytes="3966" data-mc-width="156" data-mc-height="35" data-mc-natural-width="156" data-mc-natural-height="35" /></a></td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <!-- END NAVIGATION WEB CENTER -->
+                      <!-- END NAVIGATION -->
+
+                      <!--********** START BODY OF EMAIL ********-->
+
+                      <!-- START FULL BLEED WITH SEPERATE MOBILE IMAGE -->
+                      <table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+                        <tbody>
+                          <tr>
+                            <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+                                <tbody>
+                                  <tr>
+                                    <td class="fluid-img" bgcolor="#fdf7e3" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                      <div class="m-hide">
+                                        <a href="#" universal="true" target="_blank"><img src="https://assets.mailcharts.com/emails/images/a152c99a9dd9a8b4fd696689bc0523a0f056c807.jpeg" width="600" height="auto" border="0" alt="Not Keen on cooking?" data-mc-image-bytes="21051" data-mc-width="600" data-mc-height="249" data-mc-natural-width="1080" data-mc-natural-height="249" /></a>
+                                      </div>
+                                      <!--[if !mso]><!-->
+                                      <div class="hide-for-desktop" style="font-size:0pt; line-height:0pt; display:none; max-height:0; max-width:0; visibility:hidden; opacity:0; mso-hide:all; overflow:hidden; width:0; height:0;">
+                                        <div class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                          <a href="#" universal="true" target="_blank">
+                                            <img src="https://assets.mailcharts.com/emails/images/a152c99a9dd9a8b4fd696689bc0523a0f056c807.jpeg" width="600" height="auto" alt="Not Keen on cooking?" border="0" data-mc-image-bytes="21051" data-mc-width="375" data-mc-height="86" data-mc-natural-width="1080" data-mc-natural-height="249" />
+                                          </a>
+                                        </div>
+                                      </div>
+
+                                    </td>
+                                  </tr>
+
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <!-- END FULL BLEED WITH SEPERATE MOBILE IMAGE  -->
+                      <!-- START FULL BLEED WITH SEPERATE MOBILE IMAGE -->
+                      <table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+                        <tbody>
+                          <tr>
+                            <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+                                <tbody>
+                                  <tr>
+                                    <td class="fluid-img" bgcolor="#fdf7e3" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                      <div class="m-hide">
+                                        <a href="#" universal="true" target="_blank"><img src="https://assets.mailcharts.com/emails/images/914b86b2a16b252dc24bac23e958e3768c198457.gif" width="600" height="auto" border="0" alt="will you be hungry later?&#10;" data-mc-image-bytes="855710" data-mc-width="600" data-mc-height="500" data-mc-natural-width="1000" data-mc-natural-height="500" /></a>
+                                      </div>
+                                      <!--[if !mso]><!-->
+                                      <div class="hide-for-desktop" style="font-size:0pt; line-height:0pt; display:none; max-height:0; max-width:0; visibility:hidden; opacity:0; mso-hide:all; overflow:hidden; width:0; height:0;">
+                                        <div class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                          <a href="#" universal="true" target="_blank">
+                                            <img src="https://assets.mailcharts.com/emails/images/ab48ba72f1213937feebf829e0280b419d25e843.gif" width="520" height="auto" alt="How does done in 3 minutes sound?&#10;" border="0" data-mc-image-bytes="665368" data-mc-width="375" data-mc-height="469" data-mc-natural-width="560" data-mc-natural-height="700" />
+                                          </a>
+                                        </div>
+                                      </div>
+
+                                    </td>
+                                  </tr>
+
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <!-- END FULL BLEED WITH SEPERATE MOBILE IMAGE  -->
+                      <!-- START FULL BLEED WITH SEPERATE MOBILE IMAGE -->
+                      <table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+                        <tbody>
+                          <tr>
+                            <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+                                <!-- End Spacer -->
+                                <tbody>
+                                  <tr>
+                                    <td class="pt-40 px-45 mpx-30" bgcolor="#FFFDF7" style="padding-top: 40px; padding-left: 45px; padding-right: 45px;">
+                                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                          <tr>
+                                            <td class="text fz-18 lh-23 a-center c-white l-white pb-30" style="font-family:Helvetica, Arial, sans-serif; font-size: 18px; line-height: 23px; text-align:center; color:#03514E; padding-bottom: 30px;">
+                                              Feel at ease knowing dinner is ready for you. Delicious chef-cooked meals delivered right to your door, so you can eat well at home.
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td class="pb-32 px-50 mpx-30" style="padding-bottom: 32px;">
+                                              <!-- 2 Cos - L Icon / R Text -->
+                                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="pb-32 px-50 mpx-30" style="font-size:0pt; line-height:0pt; text-align:center;padding-bottom: 20px;">
+                                                      <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/2fa0561b05cc776fd2106e017b1c9d107337fe6c.png" width="50" height="50" border="0" alt="" data-mc-image-bytes="1523" data-mc-width="50" data-mc-height="50" data-mc-natural-width="100" data-mc-natural-height="100" />
+                                                      </a></td>
+                                                  </tr>
+
+
+                                                </tbody>
+                                              </table>
+                                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="text mfz-20  lh-20 a-center c-white l-white pb-30" style="color:#03514E; font-family:Helvetica, Arial, sans-serif; text-align:center; font-size: 24px; line-height: 28px; padding-bottom: 5px;">
+                                                      <b>6 meals for $6.16 each</b> <span style="text-decoration: line-through;"><br />(Orig. $9.49)</span> <b>
+                                                      </b></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="text fz-18 lh-22" style="color:#03514E; font-family:Helvetica, Arial, sans-serif; text-align:center; font-size: 16px; line-height: 22px; padding-bottom: 22px;">
+                                                      *Shipping excluded.
+                                                    </td>
+                                                  </tr>
+
+                                                  <!-- END 2 Cos - L Icon / R Text -->
+
+
+
+                                                  <tr>
+                                                    <td class="pb-54 mpb-50" align="center" style="padding-bottom: 8px;">
+                                                      <!-- Button -->
+                                                      <table border="0" cellspacing="0" cellpadding="0">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td class="btn fz-18 lh-22 btnp-13-25 ltsp-1 c-blue l-blue" style="border: 2px solid #2A6DFF; font-family:Helvetica, Arial, sans-serif; text-align:center; font-size: 18px; line-height: 22px; mso-padding-alt:13px 25px; letter-spacing: 1px; color:#3167ff;" bgcolor="#2A6DFF">
+                                                              <a href="#" target="_blank" class="link c-blue" style="display: block; padding: 13px 25px; text-decoration:none; color:#2A6DFF;">
+                                                                <span class="link c-blue" style="text-decoration:none; color:#ffffff;">
+																			<b>Get $80 Off</b>
+																		</span>
+                                                              </a>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+
+                                              <!-- END Button -->
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                    </td>
+                                  </tr>
+                                  <!-- END Green Box -->
+
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <!-- END FULL BLEED WITH SEPERATE MOBILE IMAGE  -->
+
+
+
+                      <!-- START FULL BLEED WITH SEPERATE MOBILE IMAGE -->
+                      <table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+                        <tbody>
+                          <tr>
+                            <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+                                <tbody>
+                                  <tr>
+                                    <td class="fluid-img" bgcolor="#fdf7e3" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                      <div class="m-hide">
+                                        <a href="#" universal="true" target="_blank"><img src="https://assets.mailcharts.com/emails/images/83f2af053c69f741ca5a6fbd60c2cf1f7cac97c1.jpeg" width="600" height="auto" border="0" alt="Not Keen on cooking?" data-mc-image-bytes="14362" data-mc-width="600" data-mc-height="196" data-mc-natural-width="1200" data-mc-natural-height="196" /></a>
+                                      </div>
+                                      <!--[if !mso]><!-->
+                                      <div class="hide-for-desktop" style="font-size:0pt; line-height:0pt; display:none; max-height:0; max-width:0; visibility:hidden; opacity:0; mso-hide:all; overflow:hidden; width:0; height:0;">
+                                        <div class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                          <a href="#" universal="true" target="_blank">
+                                            <img src="https://assets.mailcharts.com/emails/images/ec6f0c6e94e1df4001c8c03a84ffbce294e74b27.jpeg" width="520" height="auto" alt="Not Keen on cooking?" border="0" data-mc-image-bytes="9674" data-mc-width="375" data-mc-height="101" data-mc-natural-width="640" data-mc-natural-height="173" />
+                                          </a>
+                                        </div>
+                                      </div>
+
+                                    </td>
+                                  </tr>
+
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <!-- END FULL BLEED WITH SEPERATE MOBILE IMAGE  -->
+                      <!-- START FULL BLEED WITH SEPERATE MOBILE IMAGE -->
+                      <table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+                        <tbody>
+                          <tr>
+                            <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+                                <tbody>
+                                  <tr>
+                                    <td class="fluid-img" bgcolor="#fdf7e3" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                      <div class="m-hide">
+                                        <a href="#" universal="true" target="_blank"><img src="https://assets.mailcharts.com/emails/images/2ce4bcd415004f2c07a5b63b10d9e19d99f989cc.jpeg" width="600" height="auto" border="0" alt="will you be hungry later?&#10;" data-mc-image-bytes="123849" data-mc-width="600" data-mc-height="601" data-mc-natural-width="1200" data-mc-natural-height="601" /></a>
+                                      </div>
+                                      <!--[if !mso]><!-->
+                                      <div class="hide-for-desktop" style="font-size:0pt; line-height:0pt; display:none; max-height:0; max-width:0; visibility:hidden; opacity:0; mso-hide:all; overflow:hidden; width:0; height:0;">
+                                        <div class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                          <a href="#" universal="true" target="_blank">
+                                            <img src="https://assets.mailcharts.com/emails/images/5a931466987b8e508aba4e9c1ccd1c1bb22e3f9b.jpeg" width="520" height="auto" alt="How does done in 3 minutes sound?&#10;" border="0" data-mc-image-bytes="137859" data-mc-width="375" data-mc-height="679" data-mc-natural-width="640" data-mc-natural-height="1158" />
+                                          </a>
+                                        </div>
+                                      </div>
+
+                                    </td>
+                                  </tr>
+
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <!-- END FULL BLEED WITH SEPERATE MOBILE IMAGE  -->
+                      <!-- START FULL BLEED WITH SEPERATE MOBILE IMAGE -->
+                      <table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+                        <tbody>
+                          <tr>
+                            <td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+
+                                <tbody>
+                                  <tr>
+                                    <td class="fluid-img" bgcolor="#fdf7e3" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                      <div class="m-hide">
+                                        <a href="#" universal="true" target="_blank"><img src="https://assets.mailcharts.com/emails/images/2ca2975bc5098711eb682252dac268dc57a75fc8.jpeg" width="600" height="auto" border="0" alt="Would $100 Off change your mind?&#10;(You’re welcome, Mom.) " data-mc-image-bytes="143527" data-mc-width="600" data-mc-height="1200" data-mc-natural-width="1200" data-mc-natural-height="1200" /></a>
+                                      </div>
+                                      <!--[if !mso]><!-->
+                                      <div class="hide-for-desktop" style="font-size:0pt; line-height:0pt; display:none; max-height:0; max-width:0; visibility:hidden; opacity:0; mso-hide:all; overflow:hidden; width:0; height:0;">
+                                        <div class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                          <a href="#" universal="true" target="_blank">
+                                            <img src="https://assets.mailcharts.com/emails/images/b7312cf3e405632dfe97b67f5695393818ddd8bb.jpeg" width="520" height="auto" alt="Discover Freshly " border="0" data-mc-image-bytes="154261" data-mc-width="375" data-mc-height="1353" data-mc-natural-width="640" data-mc-natural-height="2309" />
+                                          </a>
+                                        </div>
+                                      </div>
+
+                                    </td>
+                                  </tr>
+
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <!-- END FULL BLEED WITH SEPERATE MOBILE IMAGE  -->
+
+
+
+
+                      <!--********** END BODY OF EMAIL ********-->
+
+                      <!-- New Footer  -->
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#fffdf7">
+                        <tbody>
+                          <tr>
+                            <td class="py-28 px-50 mpx-20" bgcolor="#e5e5e5" style="padding-top: 28px; padding-bottom: 28px; padding-left: 40px; padding-right: 40px;">
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                  <tr>
+                                    <td class="text-16 a-center pb-20" style="font-size:16px; line-height:20px; color:#03514e; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center; padding-bottom: 20px;"><strong>Contact Us</strong></td>
+                                  </tr>
+                                  <tr>
+                                    <td class="pb-40 mpb-28" align="center" style="padding-bottom: 40px;">
+                                      <table border="0" cellspacing="0" cellpadding="0">
+                                        <tbody>
+                                          <tr>
+                                            <td class="img" width="48" valign="top" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="img-center pb-4" style="font-size:0pt; line-height:0pt; text-align:center; padding-bottom: 4px;"><a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/21ac8c63ed4d8dbe0fa2c8f0cbed4c4d93fad124.undefined" width="46" height="" border="0" alt="" data-mc-image-bytes="1853" data-mc-width="46" data-mc-height="46" data-mc-natural-width="92" data-mc-natural-height="92" /></a></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="text-12 a-center" style="font-size:11px; line-height:16px; color:#03514e; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center;"><a href="#" target="_blank" class="link c-green" style="text-decoration:none; color:#03514e;"><span class="link c-green" style="text-decoration:none; color:#03514e;"><strong>Call</strong></span></a></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                            <td class="img w-20" width="48" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                            <td class="img" width="48" valign="top" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="img-center pb-4" style="font-size:0pt; line-height:0pt; text-align:center; padding-bottom: 4px;"><a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/6e0e7ddcf2b6936023cb4fc2dc58a7586bab7839.undefined" width="45" height="" border="0" alt="" data-mc-image-bytes="2223" data-mc-width="45" data-mc-height="45" data-mc-natural-width="92" data-mc-natural-height="92" /></a></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="text-12 a-center" style="font-size:11px; line-height:16px; color:#03514e; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center;"><a href="#" target="_blank" class="link c-green" style="text-decoration:none; color:#03514e;"><span class="link c-green" style="text-decoration:none; color:#03514e;"><strong>Message</strong></span></a></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                            <td class="img w-20" width="48" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                            <td class="img" width="48" valign="top" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="img-center pb-4" style="font-size:0pt; line-height:0pt; text-align:center; padding-bottom: 4px;"><a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/d38f3fc793116ce2d590fc247d9ccea66d679672.undefined" width="46" height="" border="0" alt="" data-mc-image-bytes="1853" data-mc-width="46" data-mc-height="46" data-mc-natural-width="92" data-mc-natural-height="92" /></a></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="text-12 a-center" style="font-size:11px; line-height:16px; color:#03514e; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center;"><a href="#" target="_blank" class="link c-green" style="text-decoration:none; color:#03514e;"><span class="link c-green" style="text-decoration:none; color:#03514e;"><strong>Chat</strong></span></a></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                            <td class="img w-20" width="48" style="font-size:0pt; line-height:0pt; text-align:left;"></td>
+                                            <td class="img" width="48" valign="top" style="font-size:0pt; line-height:0pt; text-align:left;">
+                                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="img-center pb-4" style="font-size:0pt; line-height:0pt; text-align:center; padding-bottom: 4px;"><a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/c68e6041b4ce592a59a7cb9b96a61b5b616310cb.undefined" width="46" height="" border="0" alt="" data-mc-image-bytes="1807" data-mc-width="46" data-mc-height="46" data-mc-natural-width="92" data-mc-natural-height="92" /></a></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td class="text-12 a-center" style="font-size:11px; line-height:16px; color:#03514e; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center;"><a href="#" target="_blank" class="link c-green" style="text-decoration:none; color:#03514e;"><span class="link c-green" style="text-decoration:none; color:#03514e;"><strong>Text</strong></span></a></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+
+
+                                  <!-- Social Buttons -->
+                                </tbody>
+                              </table>
+                              <table align="center" border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                  <tr>
+                                    <td class="img" width="120" style="font-size:0pt; line-height:0pt; align:center;">
+                                      <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/da4253cbced062c241ec1abb9fec51f2deba5ce6.png" width="120" height="40" border="0" alt="App Store" data-mc-image-bytes="5555" data-mc-width="120" data-mc-height="40" data-mc-natural-width="240" data-mc-natural-height="80" /></a>
+                                    </td>
+                                    <td class="img w-15" width="20" style="font-size:0pt; line-height:0pt; text-align:center;"> </td>
+                                    <td class="img" width="133" style="font-size:0pt; line-height:0pt; align:center;">
+                                      <a href="#" target="_blank"><img src="https://assets.mailcharts.com/emails/images/a593c8491e15dc5094ffc37905702f2d3fbdabc3.png" width="133" height="40" border="0" alt="Google Play" data-mc-image-bytes="6999" data-mc-width="133" data-mc-height="40" data-mc-natural-width="266" data-mc-natural-height="80" /></a>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <!-- END Social Buttons -->
+
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="text-12 tt-up a-center pb-18" style="font-size:12px; line-height:16px; color:#03514e; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center; padding-bottom: 18px; padding-top: 18px; padding-left:50px; padding-right:50px">
+
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="text-10 tt-up a-center pb-20" style="font-size:10px; line-height:14px; color:#03514e; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; text-transform:uppercase; text-align:center; padding-bottom: 20px;">
+                              <a href="#" target="_blank" class="link c-green" style="text-decoration:none; color:#03514e;"><span class="link c-green" style="text-decoration:none; color:#03514e;">PRIVACY POLICY</span></a>  |  <a href="#" target="_blank" class="link c-green" style="text-decoration:none; color:#03514e;"><span class="link c-green" style="text-decoration:none; color:#03514e;">TERMS &amp; CONDITIONS</span></a>  |  <a href="#" target="_blank" class="link c-green" style="text-decoration:none; color:#03514e;"><span class="link c-green" style="text-decoration:none; color:#03514e;">FAQ</span></a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="text-10 a-center pb-20" style="font-size:10px; line-height:14px; color:#03514e; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center; padding-bottom: 20px;">
+                              Copyright 2021, Freshly, Inc. All rights reserved. <br />
+                              115 E. 23rd St., 7th Floor, New York, NY 10010
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="text-12 a-center" style="font-size:12px; line-height:16px; color:#03514e; font-family:Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center;"><span>
+														If you prefer not to receive emails like this from Freshly, <br /></span>
+                              you may unsubscribe <a href="#" target="_blank" class="link-u" style="color:#2a6dff; text-decoration:underline;"><span class="link-u" style="color:#2a6dff; text-decoration:underline;"><strong>here</strong></span></a>.<br /><br />
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- END New Footer  -->
+
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+
+
+    </center>
+
+
+
+
+  </body>
+
+</html>
