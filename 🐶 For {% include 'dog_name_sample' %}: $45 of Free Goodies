@@ -1,0 +1,335 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+	<!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="x-apple-disable-message-reformatting" />
+	<title>Super Chewer</title>
+	<!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+		table, tr, th, td, div, p, span, a, em { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif !important; }
+	</style>
+	<![endif]-->
+	
+
+	<style type="text/css" media="screen">
+		@font-face { 
+			font-family: 'Apercu';
+			src: url('﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/apercu-regular.woff'); font-weight: normal; font-style: normal; 
+		}
+		@font-face { 
+			font-family: 'Apercu';
+			src: url('﻿﻿﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/apercu-medium.woff'); font-weight: 500; font-style: normal; 
+		}
+
+		@font-face { 
+			font-family: 'Apercu';
+			src: url('﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/apercu-bold.woff'); font-weight: bold; font-style: normal; 
+		}
+
+		@font-face { 
+			font-family: 'Pancho';
+			src: url('﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/pancho-semibold.woff'); font-weight: bold; font-style: normal; 
+		}
+
+		@font-face { 
+			font-family: 'Equinox';
+			src: url('﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/equinox-regular.woff'); font-weight: normal; font-style: normal; 
+		}
+	</style>
+	
+	<style type="text/css" media="screen">
+		body { padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#f1f1f1; -webkit-text-size-adjust:none }
+		a { color:#000000; text-decoration:none }
+		p { margin:0 !important } 
+		img { margin: 0 !important; -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+		div { background: transparent !important; }
+		strong { font-weight: 700 !important; }
+		#MessageViewBody, #MessageWebViewDiv { width: 100% !important; } /* Samsung Galaxy Note 4 Samsung Mail - make email stay centered */
+
+		.btnp-18-28 a { padding: 18px 28px; display: block; }
+		.btnp-18-65 a { padding: 18px 65px; display: block; }
+
+		/* Mobile styles */
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+			.mpb-18 { padding-bottom: 18px !important; }
+
+			.mfz-34 { font-size: 34px !important; }
+
+			.mlh-34 { line-height: 34px !important; }
+
+			.mfz-24 { font-size: 24px !important; }
+
+			.mlh-24 { line-height: 24px !important; }
+
+			.mfz-37 { font-size: 37px !important; }
+
+			.mlh-37 { line-height: 37px !important; }
+
+			.mfz-12 { font-size: 12px !important; }
+
+			.mlh-16 { line-height: 16px !important; }
+
+			.mlh-26 { line-height: 26px !important; }
+
+			.mfz-16 { font-size: 16px !important; }
+
+			.mlh-22 { line-height: 22px !important; }
+
+			.mt-54 { margin-top: -54px !important; }
+			.mt-80 { margin-top: -80px !important; }
+
+			.mt-left { text-align: left !important; }
+			.mt-center { text-align: center !important; }
+			.mt-right { text-align: right !important; }
+			
+			.me-left { margin-right: auto !important; }
+			.me-center { margin: 0 auto !important; }
+			.me-right { margin-left: auto !important; }
+
+			.mh-auto { height: auto !important; }
+			.mw-auto { width: auto !important; }
+
+			.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; max-height: auto !important; }
+
+			.column,
+			.column-top,
+			.column-bottom { float: left !important; width: 100% !important; display: block !important; }
+
+			.m-hide { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+			.m-block { display: block !important; }
+
+			.mw-100p { width: 100% !important; }
+
+			.btn a { padding: 10px 15px !important; letter-spacing: 2px !important; }
+			.btn-2 a { padding: 10px 30px !important; letter-spacing: 2px !important; }
+
+			.btn img { width: 7px !important; height: auto !important; }			
+
+			.hide-for-desktop { display: block !important; max-width: 100% !important; max-height: 100% !important; visibility: visible !important; opacity: 1 !important; width: auto !important; height: auto !important; }
+		}
+	</style>
+</head>
+<body class="body" style="padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#f1f1f1; -webkit-text-size-adjust:none;">
+	<center>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0; width: 100%; height: 100%;" bgcolor="#eeeeee">
+			<tr>
+				<td style="margin: 0; padding: 0; width: 100%; height: 100%;" align="center" valign="top">
+					<table class="m-hide" style="mso-hide: all;" width="100%" border="0" cellspacing="0" cellpadding="0">
+						<!-- Preview Text -->
+						<tr>
+							<td style="font-size: 0pt; line-height: 0pt;">
+								Get 2X the tough dog toys, treats, & chews in your next box.
+							</td>
+						</tr>
+						<!-- END Preview Text -->
+
+						<!-- Fix -->
+						<tr>
+							<td style="font-size: 0pt; line-height: 0pt;">
+								&nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; 
+							</td>
+						</tr>
+						<!-- END Fix -->
+					</table>
+					
+					<table class="mw-100p" width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#f7f7f7">
+						<tr>
+							<td style="font-size: 0pt; line-height: 0pt;">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<!-- Header -->
+									<tr>
+										<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+											<a href="https://www.barkbox.com/super-chewer/join/lifecyclesc-dd" target="_blank">
+												<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/77491cb8-d924-44ad-aa2f-919c12e0130a/1200x388.png" width="600" height="194" border="0" alt="BARK SUPER CHEWER" class="text fz-16 lh-20 a-center"  style="color:#000000; font-family:'Apercu', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; text-align:center;" />
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td class="pb-28 mpb-18" style="padding-bottom: 28px;">
+											<table class="mt-54" style="margin-top: -84px;" width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="title fz-71 lh-71 mfz-34 mlh-34 ff-p a-center" style="mso-line-height-alt: 73px; color:#000000; font-size: 71px; line-height: 71px; font-family:'Pancho', Helvetica, Arial, sans-serif; text-align:center;">
+														<strong>DOUBLE</strong>
+													</td>
+												</tr>
+												<tr>
+													<td class="title fz-51 lh-51 mfz-24 mlh-24 ff-p a-center" style="mso-line-height-alt: 53px; color:#000000; font-size: 51px; line-height: 51px; font-family:'Pancho', Helvetica, Arial, sans-serif; text-align:center; text-transform: uppercase;">
+														<strong>{% include 'dog_name_sample' %}&rsquo;s Box</strong>
+													</td>
+												</tr>
+												<tr>
+													<td class="title fz-75 lh-75 mfz-37 mlh-37 ff-p a-center" style="mso-line-height-alt: 77px; color:#000000; font-size: 75px; line-height: 75px; font-family:'Pancho', Helvetica, Arial, sans-serif; text-align:center; text-transform: uppercase;">
+														<strong>For Free!</strong>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td align="center">
+											<!-- Button -->
+											<table border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="btn btnp-18-28 fz-21 lh-23 mfz-12 mlh-16 c-white l-white ltsp-3 bdrs-3" bgcolor="#1a4e8a" style="font-family:'Apercu', Helvetica, Arial, sans-serif; text-align:center; mso-padding-alt:18px 28px; font-size: 21px; line-height: 23px; color:#ffffff; letter-spacing: 3px; border-radius: 3px;">
+														<a href="https://www.barkbox.com/" target="_blank" class="link c-white" style="display: block; padding: 18px 28px; text-decoration:none; color:#ffffff;">
+															<span class="link c-white" style="text-decoration:none; color:#ffffff;">
+																<strong>CLAIM OFFER</strong> <img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/41e7c537-4bef-408c-a024-d400ce13f7c3/11x19.png" width="10" height="16" border="0" alt="" />
+															</span>
+														</a>
+													</td>
+												</tr>
+											</table>
+											<!-- END Button -->
+										</td>
+									</tr>
+									<tr>
+										<td class="img pb-20" style="font-size:0pt; line-height:0pt; text-align:left; padding-bottom: 20px;">
+											<div class="fluid-img mt-80" style="margin-top: -140px; font-size:0pt; line-height:0pt; text-align:left;">
+												<a href="https://www.barkbox.com/super-chewer/join/lifecyclesc-dd" target="_blank">
+													<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/729a62f2-fd40-4c71-aeb7-be0ce20851e3/1200x1004.png" width="600" height="502" border="0" alt="$45 value, 2x, SUPER CHEWER" class="text fz-16 lh-20 a-center"  style="color:#000000; font-family:'Apercu', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 20px; text-align:center;" />
+												</a>
+											</div>
+										</td>
+									</tr>
+									<!-- END Header -->									
+
+									<!-- Section 1 -->
+									<tr>
+										<td class="px-20" style="padding-left: 20px; padding-right: 20px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="text fz-35 lh-39 a-center mfz-24 mlh-26 pb-24" style="color:#000000; font-family:'Apercu', Helvetica, Arial, sans-serif; font-size: 35px; line-height: 39px; text-align:center; padding-bottom: 24px;">
+														<strong>Twice the box, Once&nbsp;the&nbsp;price.</strong>
+													</td>
+												</tr>
+												<tr>
+													<td class="text fz-21 lh-30 a-center mfz-16 mlh-22 fw-500 pb-36" style="letter-spacing: 0.8px; color:#000000; font-family:'Apercu', Helvetica, Arial, sans-serif; font-size: 21px; line-height: 30px; text-align:center; font-weight: 500; padding-bottom: 36px;">
+														Get 2X the tough dog toys, treats, &amp; chews <span class="m-hide"><br /></span>in your first Super Chewer Box FREE when <span class="m-hide"><br /></span>you join the pack today (A&nbsp;$45&nbsp;Value)!
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- END Section 1 -->
+
+									<!-- Button -->
+									<tr>
+										<td align="center">
+											<table border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="btn btn-2 btnp-18-65 fz-21 lh-23 mfz-12 mlh-16 c-white l-white ltsp-3 bdrs-3" bgcolor="#1a4e8a" style="font-family:'Apercu', Helvetica, Arial, sans-serif; text-align:center; mso-padding-alt:18px 65px; font-size: 21px; line-height: 23px; color:#ffffff; letter-spacing: 3px; border-radius: 3px;">
+														<a href="https://www.barkbox.com/super-chewer/join/lifecyclesc-dd" target="_blank" class="link c-white" style="display: block; padding: 18px 65px; text-decoration:none; color:#ffffff;">
+															<span class="link c-white" style="text-decoration:none; color:#ffffff;">
+																<strong>CLAIM OFFER</strong> <img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/ae364d3d-a7a0-499a-a587-6eb24c3d748c/20x32.png" width="10" height="16" border="0" alt="" />
+															</span>
+														</a>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>									
+									<!-- END Button -->
+
+									<!-- Image -->
+									<tr>
+										<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+										    <a href="https://www.barkbox.com/super-chewer/join/lifecyclesc-dd">
+											<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/cf1989c4-b99b-4c0e-98fe-4aeffc7dc2c4/1200x584.jpg" width="600" height="292" border="0" alt="" />
+											</a>
+										</td>
+									</tr>
+									<!-- END Image -->
+									
+									<!-- Happy & Shipping Images -->
+									
+									<tr>
+										<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+										    <a href="https://www.barkbox.com/super-chewer/join/lifecyclesc-dd">
+											<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/63bbbd2b-8258-4f78-84a1-9e46b2344146/1200x779.png" width="600" height=auto border="0" alt="Made for Your Dog." />
+											</a>
+										</td>
+									</tr>
+									
+									<tr>
+										<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+											<a href="https://www.barkbox.com/super-chewer/join/lifecyclesc-dd">
+											<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/e326ad9d-ad13-4a3a-9afd-adb70fa0068a/1200x412.png" width="600" height=auto border="0" alt="Made for Your Dog." />
+											</a>
+										</td>
+									</tr>
+									
+									<!-- END Happy & Shipping Images -->
+									
+									<!-- Footer -->
+									<tr>
+										<td class="py-30 px-65 mpx-20" style="border-top: 5px solid #ffffff; padding-top: 30px; padding-bottom: 30px; padding-left: 65px; padding-right: 65px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="pb-24" align="center" style="padding-bottom: 24px;">
+														<!-- Socials -->
+														<table border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.facebook.com/SuperChewer" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/1d95bd15-c89d-4997-9fba-0cac66d1b457/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://twitter.com/superchewer" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/8a620016-d96c-4cd6-9f73-af72a0e7b90e/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.instagram.com/superchewer" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/c3c78a1a-7c2f-4902-ac34-436be22f4382/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.pinterest.com/barkbox/_created/" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/7171b5c2-4061-442b-9b67-6baee4c5da6f/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.youtube.com/barkbox" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/e11d5219-3c32-4987-bc1b-8cb3097dccfc/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+															</tr>
+														</table>
+														<!-- END Socials -->
+													</td>
+												</tr>
+												<tr>
+													<td class="text fz-13 lh-20 a-center ff-a c-grey l-grey" style="font-family:Helvetica, Arial, sans-serif, 'Apercu'; font-size: 13px; line-height: 20px; text-align:center; color:#9a9a9a;">
+														Free Double Deluxe upgrade is valid while supplies last and applies to the first month of your subscription. This free upgrade is valid on 6 or 12-month plans only.<br /><br />
+
+												{% include 'MKTG_SC_Footer' %}
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- END Footer -->
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>
