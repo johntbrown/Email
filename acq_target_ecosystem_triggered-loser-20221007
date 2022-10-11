@@ -1,0 +1,453 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+	<!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="x-apple-disable-message-reformatting" />
+	 <!--[if !mso]><!-->
+	 <!--<![endif]-->
+	<title>Email Template</title>
+	<!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+	
+
+	<style type="text/css" media="screen">
+		body { padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none }
+		a { color:#ff0000; text-decoration:none }
+		p { padding:0 !important; margin:0 !important } 
+		img { margin: 0 !important; -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+		#MessageViewBody, #MessageWebViewDiv { width: 100% !important; } /* Samsung Galaxy Note 4 Samsung Mail - make email stay centered */
+
+		.l-white a { color: #ffffff; }
+		.l-primary a { color: #1d4d7a; }
+		.l-dblue a { color: #1a4e8a; }
+
+
+		@font-face { 
+			font-family: 'Pancho'; 
+			src: url('﻿﻿﻿﻿﻿﻿﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/pancho-semibold.woff') format("woff");
+			font-weight: bold;
+			font-style: normal; 
+			mso-font-alt: Arial;
+		}
+
+		@font-face { 
+			font-family: 'Apercu'; 
+			src: url('﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/apercu-regular.woff') format("woff");
+			font-weight: normal;
+			font-style: normal; 
+			mso-font-alt: Arial;
+		}
+
+		@font-face { 
+			font-family: 'Apercu'; 
+			src: url('﻿﻿﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/apercu-medium.woff') format("woff");
+			font-weight: 500;
+			font-style: normal; 
+			mso-font-alt: Arial;
+		}
+
+		@font-face { 
+			font-family: 'Apercu'; 
+			src: url('﻿﻿﻿﻿﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/apercu-bold.woff');
+			font-weight: bold;
+			font-style: normal; 
+			mso-font-alt: Arial;
+		}
+				
+		
+		/* Mobile styles */
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+			.mpt-30 { padding-top: 30px !important; }
+
+			.mpb-20 { padding-bottom: 20px !important; }
+
+			.mpb-24 { padding-bottom: 24px !important; }
+
+			.mfz-22 { font-size: 22px !important; }
+
+			.mlh-28 { line-height: 28px !important; }
+
+			.mpt-374 { padding-top: 374px !important; }
+
+			.mfz-30 { font-size: 30px !important; }
+
+			.mlh-40 { line-height: 40px !important; }
+
+			.mpb-30 { padding-bottom: 30px !important; }
+
+			.mlh-34 { line-height: 34px !important; }
+
+			.mfz-20 { font-size: 20px !important; }
+
+			.mlh-26 { line-height: 26px !important; }
+
+			.mfz-28 { font-size: 28px !important; }
+
+			.mlh-32 { line-height: 32px !important; }
+
+			.td,
+			.m-shell { width: 100% !important; min-width: 100% !important; }
+			
+			.mt-left { text-align: left !important; }
+			.mt-center { text-align: center !important; }
+			.mt-right { text-align: right !important; }
+			
+			.me-left { margin-right: auto !important; }
+			.me-center { margin: 0 auto !important; }
+			.me-right { margin-left: auto !important; }
+
+			.mh-auto { height: auto !important; }
+			.mw-auto { width: auto !important; }
+
+			.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+
+			.mobile-image { display: block !important; width: 100% !important; max-width: 100% !important; height: auto !important; }
+
+			.column,
+			.column-top,
+			.column-dir,
+			.column-dir-top { float: left !important; width: 100% !important; display: block !important; }
+
+			.m-hide { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+			.m-block { display: block !important; }
+
+			.mbg { height: auto !important; background-position: top center !important; background-size: cover !important; -webkit-background-size: cover !important; }
+
+			.content-spacing { width: 15px !important; }
+
+			.m-up { position: relative !important; margin-top: -10px !important; }
+
+			.mw-20 { width: 20px !important; }
+
+		}
+	</style>
+</head>
+<body class="body" style="padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none;">
+	<center>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0; width: 100%; height: 100%;" bgcolor="#ffffff">
+			<tr>
+				<td style="margin: 0; padding: 0; width: 100%; height: 100%;" align="center" valign="top">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<!-- Preview Text -->
+						<tr class="m-hide" style="mso-hide: all;">
+							<td style="font-size: 0pt; line-height: 0pt;">
+								<!--*|IF:MC_PREVIEW_TEXT|*-->
+								<!--[if !gte mso 9]><!-->
+								<span class="mcnPreviewText" style="display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">You didn’t win the big prize, but your dog doesn’t know that!
+</span>
+								<!--<![endif]-->
+								<!--*|END:IF|*-->
+							</td>
+						</tr>
+						<tr class="m-hide" style="mso-hide: all;">
+							<td style="font-size: 0pt; line-height: 0pt;">&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;</td>
+						</tr>
+						<!-- END Preview Text -->
+					</table>
+					
+					<table width="600" border="0" cellspacing="0" cellpadding="0" class="m-shell">
+						<tr>
+							<td class="td" style="width:600px; min-width:600px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal;">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<!-- Header -->
+									<tr>
+										<td class="pt-48 px-20 pb-33 mpt-30 mpb-20" style="padding-top: 48px; padding-left: 20px; padding-right: 20px; padding-bottom: 33px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="img-center pb-37 mpb-24" style="font-size:0pt; line-height:0pt; text-align:center; padding-bottom: 37px;">
+														<a href="https://www.target.com/p/bark-night-before-chrismutts-dog-toy-collection/-/A-87602755" target="_blank"><img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/2ed63f89-7970-4631-be37-027d262d1cd6/291x102.png" width="146" height="51" border="0" alt="" /></a>
+													</td>
+												</tr>
+												<tr>
+													<td class="text-28 mfz-22 mlh-28 c-red a-center fw-b ff-p" style="font-size:28px; line-height:36px; min-width:auto !important; color:#e80018; text-align:center; font-weight:bold; font-family:'Pancho', Helvetica, Arial, sans-serif;">
+														Thanks for Entering Our <span class="m-hide"><br /></span>Night Before Christmutts Sweeps!
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- END Header -->
+
+									<!-- Intro -->
+									<tr>
+										<td>
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td background="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/f5539db3-64ca-402a-98d8-081a07090454/600x520.png" bgcolor="#213e57" valign="top" height="520" class="bg" style="background-repeat:no-repeat; background-position:top center;">
+														<!--[if gte mso 9]>
+														<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px; height: 520px">
+															<v:fill type="frame" src="images/bg_image_1_v1.png" color="#213e57" />
+															<v:textbox inset="0,0,0,0">
+														<![endif]-->
+														<div>
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																<tr>
+																	<td class="content-spacing mw-15" width="25"></td>
+																	<td>
+																		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																			<tr>
+																				<td class="pt-368 mpt-374" style="padding-top: 368px;">
+																					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																						<tr>
+																							<td class="text-50 mfz-30 mlh-40 a-center fw-b c-white pb-20 mpb-30" style="font-size:50px; line-height:54px; font-family:'Apercu', Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center; font-weight:bold; color:#ffffff; padding-bottom: 20px;">
+																								To {% if contact.latest_cart_dog_name -%}
+  {{- contact.latest_cart_dog_name -}}
+{%- else -%}
+  Your Pup,
+{%- endif %}
+																							</td>
+																						</tr>
+																						<tr>
+																							<td class="text-40 mfz-22 mlh-34 a-center fw-b c-white" style="font-size:40px; line-height:44px; font-family:'Apercu', Helvetica, Arial, sans-serif; min-width:auto !important; text-align:center; font-weight:bold; color:#ffffff;">
+																								You’ll Always be a Winner
+																							</td>
+																						</tr>
+																					</table>
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																	<td class="content-spacing mw-15" width="25"></td>
+																</tr>
+															</table>
+														</div>
+														<!--[if gte mso 9]>
+															</v:textbox>
+															</v:rect>
+														<![endif]-->
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- END Intro -->
+
+									<!-- Main -->
+									<tr>
+										<td>
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td background="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/464f271b-e658-405d-ab7e-89e18887e10d/600x1739.png" bgcolor="#213e57" valign="top" height="1739" class="bg mbg" style="background-repeat:no-repeat; background-position:top center;">
+														<!--[if gte mso 9]>
+														<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px; height: 1739px">
+															<v:fill type="frame" src="images/bg_image_2_v1.png" color="#213e57" />
+															<v:textbox inset="0,0,0,0">
+														<![endif]-->
+														<div>
+															<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																<tr>
+																	<td>
+																		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																			<tr>
+																				<td class="pt-26 mpb-30" style="padding-top: 26px;">
+																					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																						<!-- Section 1 -->
+																						<tr>
+																							<td class="pb-46" style="padding-bottom: 46px;">
+																								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																									<tr>
+																										<td class="img mw-20" width="50" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+																										<td valign="top">
+																											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																												<tr>
+																													<td class="text-22 lh-27 mfz-20 mlh-26 c-white a-center pb-40" style="font-size:22px; font-family:'Apercu', Helvetica, Arial, sans-serif; min-width:auto !important; line-height: 27px; color:#ffffff; text-align:center; padding-bottom: 40px;">
+																														So you didn’t win the sweepstakes— <span class="m-hide"><br /></span>BUT your dog doesn’t have thumbs and <span class="m-hide"><br /></span>couldn’t play anyway!
+																														<br /><br />
+																														But we’re glad to end up in your inbox, especially if you’re as dog-obsessed as us. As a company chock-full of dog people, we’re on a mission to create the best dog toys, treats, chews and dental essentials for our BFFs, all backed by BARK’s Happiness Guarantee. 
+																													</td>
+																												</tr>
+																												<tr>
+																													<td class="img-center" style="font-size:0pt; line-height:0pt; text-align:center;">
+																														<a href="https://barkshop.com/" target="_blank"><img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/656c94f1-cf18-4058-9c0d-ff6b927e3d0e/274x65.png" width="274" height="65" border="0" alt="" /></a>
+																													</td>
+																												</tr>
+																											</table>
+																										</td>
+																										<td class="img mw-20" width="50" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+																									</tr>
+																								</table>
+																							</td>
+																						</tr>
+																						<!-- END Section 1 -->
+
+																						<!-- Section 2 -->
+																						<tr>
+																							<td class="pb-44" style="padding-bottom: 44px;">
+																								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																									<tr>
+																										<td class="img mw-20" width="50" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+																										<td valign="top">
+																											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+																												<tr>
+																													<td class="img-center pb-44" style="font-size:0pt; line-height:0pt; text-align:center; padding-bottom: 44px;">
+																														<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/b9839f0a-e8f4-4c58-924b-4922008d8c91/239x116.png" width="239" height="116" border="0" alt="" />
+																													</td>
+																												</tr>
+																												<tr>
+																													<td class="text-32 lh-37 mfz-28 mlh-32 fw-b c-white a-center pb-28" style="font-size:32px; font-family:'Apercu', Helvetica, Arial, sans-serif; min-width:auto !important; line-height: 37px; font-weight:bold; color:#ffffff; text-align:center; padding-bottom: 28px;">
+																														Is {% if contact.latest_cart_dog_name -%}
+  {{- contact.latest_cart_dog_name -}}
+{%- else -%}
+  Your Pup
+{%- endif %} on the <span class="m-hide"><br /></span>Nice List This Year?
+																													</td>
+																												</tr>
+																												<tr>
+																													<td class="text-22 lh-27 mfz-20 mlh-26 c-white a-center pb-44" style="font-size:22px; font-family:'Apercu', Helvetica, Arial, sans-serif; min-width:auto !important; line-height: 27px; color:#ffffff; text-align:center; padding-bottom: 44px;">
+																														If you’re still looking to fetch something festive from your pup’s Christmutts list, shop our exclusive Target collection—full of the chewiest, squeakiest, crinkliest dog toys created in Santa Paws’s workshop for your pup to enjoy (and destroy) this howliday.
+																													</td>
+																												</tr>
+																												<tr>
+																													<td class="img-center" style="font-size:0pt; line-height:0pt; text-align:center;">
+																														<a href="https://www.target.com/p/bark-night-before-chrismutts-dog-toy-collection/-/A-87602755" target="_blank"><img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/95f76980-6133-4629-890e-e87972b7da58/274x66.png" width="274" height="66" border="0" alt="" /></a>
+																													</td>
+																												</tr>
+																											</table>
+																										</td>
+																										<td class="img mw-20" width="50" style="font-size:0pt; line-height:0pt; text-align:left;">&nbsp;</td>
+																									</tr>
+																								</table>
+																							</td>
+																						</tr>
+																						<!-- END Section 2 -->
+
+																						<!-- Image -->
+																						<tr>
+																							<td class="fluid-img img-center" style="font-size:0pt; line-height:0pt; text-align:center;">
+																								<a href="https://www.target.com/p/bark-night-before-chrismutts-dog-toy-collection/-/A-87602755" target="_blank"><img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/26fbe3cb-6bfc-4ea6-a60e-f86f2f573abd/597x674.png" width="597" height="674" border="0" alt="" />
+																								
+																								
+																							</td>
+																						</tr>
+																						
+																						<!-- END Image -->
+																					</table>
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</table>
+														</div>
+														
+														<!--[if gte mso 9]>
+															</v:textbox>
+															</v:rect>
+														<![endif]-->
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<!-- END Main -->
+																		<!-- Happy & Shipping Images -->
+									
+										
+									<tr>
+										<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+										    <a href="https://www.barkbox.com/contact-us?utm_content={{simon.flow_id}}&utm_term=bb">
+											<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/01718d81-63a6-4bf3-90bb-5fecbab555a9/1200x350.jpeg" width="600" height=auto border="0" alt="Made for Your Dog." />
+											</a>
+										</td>
+									</tr>
+											
+								
+								
+									<!-- END Happy & Shipping Images -->
+
+									<!-- Footer -->
+									<tr>
+										<td class="py-30 px-65 mpx-20" style="border-top: 5px solid #ffffff; padding-top: 30px; padding-bottom: 0px; padding-left: 65px; padding-right: 65px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="pb-24" align="center" style="padding-bottom: 24px;">
+														<!-- Socials -->
+														<table border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.facebook.com/barkbox" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/1d95bd15-c89d-4997-9fba-0cac66d1b457/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://twitter.com/barkbox" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/8a620016-d96c-4cd6-9f73-af72a0e7b90e/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.instagram.com/barkbox/" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/c3c78a1a-7c2f-4902-ac34-436be22f4382/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.pinterest.com/barkbox/_created/" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/7171b5c2-4061-442b-9b67-6baee4c5da6f/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.youtube.com/barkbox" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/e11d5219-3c32-4987-bc1b-8cb3097dccfc/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+															</tr>
+														</table>
+														<!-- END Socials -->
+													</td>
+												</tr>
+												<tr>
+													<td class="text fz-13 lh-20 a-center ff-a c-grey l-grey" style="font-family:Helvetica, Arial, sans-serif, 'Apercu'; font-size: 13px; line-height: 20px; text-align:center; color:#9a9a9a;">
+													
+
+
+<br /><br />
+
+												{% include 'MKTG_BB_Footer' %}
+												</tr>
+											</table>
+										</td>
+									</tr>
+									
+									<!-- X-250ok-CID: {{simon.flow_id}} -->
+									
+									<!-- END Footer -->
+
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>
