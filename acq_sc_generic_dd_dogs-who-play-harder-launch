@@ -1,0 +1,282 @@
+{% set Linkz = 'https://www.barkbox.com/super-chewer/join/scddgeneric'%} 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+	<!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="x-apple-disable-message-reformatting" />
+	<title>Double Deluxe</title>
+	<!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+	
+	
+	<style type="text/css" media="screen">
+		@font-face { 
+			font-family: 'Apercu';
+			src: url('﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/apercu-regular.woff'); font-weight: normal; font-style: normal; 
+		}
+		@font-face { 
+			font-family: 'Apercu';
+			src: url('﻿﻿﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/apercu-medium.woff'); font-weight: 500; font-style: normal; 
+		}
+		@font-face { 
+			font-family: 'Apercu';
+			src: url('﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/apercu-bold.woff'); font-weight: bold; font-style: normal; 
+		}
+		@font-face { 
+			font-family: 'Pancho';
+			src: url('﻿﻿﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/pancho-semibold.woff'); font-weight: 600; font-style: normal; 
+		}
+		@font-face { 
+			font-family: 'Equinox';
+			src: url('﻿﻿https://barkbox-marketing-campaigns.s3.amazonaws.com/fonts/equinox-regular.woff'); font-weight: normal; font-style: normal; 
+		}
+
+		[style*='Apercu'] {
+			font-family: 'Apercu', Arial, sans-serif !important;
+		}
+		[style*='Pancho'] {
+			font-family: 'Pancho', Arial, sans-serif !important;
+		}
+		[style*='Equinox'] {
+			font-family: 'Equinox', 'Trebuchet MS', sans-serif !important;
+		}
+
+		body { padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#f1f1f1; -webkit-text-size-adjust:none }
+		a { color:#000000; text-decoration:none }
+		p { margin:0 !important } 
+		img { margin: 0 !important; -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+		div { background: transparent !important; }
+		strong { font-weight: 700 !important; }
+		#MessageViewBody, #MessageWebViewDiv { width: 100% !important; } /* Samsung Galaxy Note 4 Samsung Mail - make email stay centered */
+
+		.btnp-18-15 a { display: block; padding: 18px 15px; text-decoration: none; }
+
+		.l-blue a { color: #1a4e8a; }
+		.l-white a { color: #ffffff; }
+
+		/* Mobile styles */
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+			.mpx-20 { padding-left: 20px !important; padding-right: 20px !important; }
+
+			.mpb-12 { padding-bottom: 12px !important; }
+
+			.mfz-18 { font-size: 18px !important; }
+
+			.mlh-20 { line-height: 20px !important; }
+
+			.mpt-8 { padding-top: 8px !important; }
+
+			.mpt-10 { padding-top: 10px !important; }
+
+			.mpr-10 { padding-right: 10px !important; }
+
+			.mpt-35 { padding-top: 35px !important; }
+
+			.mfz-16 { font-size: 16px !important; }
+
+			.mpb-35 { padding-bottom: 35px !important; }
+
+			.mt-left { text-align: left !important; }
+			.mt-center { text-align: center !important; }
+			.mt-right { text-align: right !important; }
+			
+			.me-left { margin-right: auto !important; }
+			.me-center { margin: 0 auto !important; }
+			.me-right { margin-left: auto !important; }
+
+			.mh-auto { height: auto !important; }
+			.mw-auto { width: auto !important; }
+
+			.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; max-height: auto !important; }
+
+			.column,
+			.column-top,
+			.column-bottom { float: left !important; width: 100% !important; display: block !important; }
+
+			.m-hide { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+			.m-block { display: block !important; }
+
+			.mw-15 { width: 15px !important; }
+
+			.mw-img-18p img { width: 18% !important; height: auto !important; }
+
+			.mw-100p { width: 100% !important; }
+
+			.hide-for-desktop { display: block !important; max-width: 100% !important; max-height: 100% !important; visibility: visible !important; opacity: 1 !important; width: auto !important; height: auto !important; }
+		}
+
+	</style>
+</head>
+<body class="body" style="padding:0 !important; margin:0 auto !important; display:block !important; min-width:100% !important; width:100% !important; background:#f1f1f1; -webkit-text-size-adjust:none;">
+	<center>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0; width: 100%; height: 100%;" bgcolor="#f1f1f1">
+			<tr>
+				<td style="margin: 0; padding: 0; width: 100%; height: 100%;" align="center" valign="top">
+					<table class="m-hide" style="mso-hide: all;" width="100%" border="0" cellspacing="0" cellpadding="0">
+						<!-- Preview Text -->
+						<tr>
+							<td style="font-size: 0pt; line-height: 0pt;">For dogs like {% include 'cursub_and_latestcart_yourdog_titlecase' %} that play 2X as hard. &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; </td> 
+						</tr>
+						<!-- END Preview Text -->
+
+						<!-- Fix -->
+						<tr>
+							<td style="font-size: 0pt; line-height: 0pt;">
+								&nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; &nbsp; &zwnj; 
+							</td>
+						</tr>
+						<!-- END Fix -->
+					</table>
+					
+					<table class="mw-100p" width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+						<tr>
+							<td style="font-size: 0pt; line-height: 0pt;">
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								    
+									<!-- Slice 1 -->
+										<tr>
+										<td class="img-center py-30" style="font-size:0pt; line-height:0pt; text-align:center; padding-top: 0px; padding-bottom: 0px;">
+											<a href="{{Linkz}}?utm_content={{simon.flow_id}}&utm_term=sc">
+											<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/17850a7d-aed5-4156-bf2a-7e6332a6c7b0/1200x106.jpg" width="600" height=auto border="0" alt="Double Your First Box" />
+											</a>
+										</td>
+									</tr>
+									<!-- END Slice 1 -->
+
+									<!-- Slice 2 -->
+									<tr>
+										<td class="img-center py-30" style="font-size:0pt; line-height:0pt; text-align:center; padding-top: 0px; padding-bottom: 0px;">
+											<a href="{{Linkz}}?utm_content={{simon.flow_id}}&utm_term=sc">
+												<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/0a463808-8a7f-4c92-994c-e338a2d2b40e/1200x1031.jpg" width="600" height=auto border="0" alt="Super Chewer" />
+											</a>
+										</td>
+									</tr>
+									<!-- END Slice 2 -->
+									
+										<!-- Slice 3 -->
+									<tr>
+										<td class="img-center py-30" style="font-size:0pt; line-height:0pt; text-align:center; padding-top: 0px; padding-bottom: 0px;">
+											<a href="{{Linkz}}?utm_content={{simon.flow_id}}&utm_term=sc">
+												<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/fcd3d25d-a92a-4f6a-b827-94b322d39e99/1200x436.jpg" width="600" height=auto border="0" alt="New Playtime Challenges" />
+											</a>
+										</td>
+									</tr>
+									<!-- END Slice 3 -->
+									
+											<!-- Slice 4 -->
+									<tr>
+										<td class="img-center py-30" style="font-size:0pt; line-height:0pt; text-align:center; padding-top: 0px; padding-bottom: 0px;">
+											<a href="{{Linkz}}?utm_content={{simon.flow_id}}&utm_term=sc">
+												<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/198213ac-6cc7-44a9-9e84-1e83bcfa7ba9/1200x867.gif" width="600" height=auto border="0" alt="Double up, NOW!" />
+											</a>
+										</td>
+									</tr>
+									<!-- END Slice 4 -->
+									
+											<!-- Slice 5 -->
+									<tr>
+										<td class="img-center py-30" style="font-size:0pt; line-height:0pt; text-align:center; padding-top: 0px; padding-bottom: 0px;">
+											<a href="{{Linkz}}?utm_content={{simon.flow_id}}&utm_term=sc">
+												<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/9c060376-2930-424a-bc6d-9f9e31b97a96/1200x297.jpg" width="600" height=auto border="0" alt="Double My Box" />
+											</a>
+										</td>
+									</tr>
+									<!-- END Slice 5 -->
+									
+								<!-- Happy & Shipping Images -->
+									
+									<tr>
+										<td class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left;">
+										    <a href="https://www.barkbox.com/super-chewer/contact-us?&utm_content={{simon.flow_id}}&utm_term=sc">
+											<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/63bbbd2b-8258-4f78-84a1-9e46b2344146/1200x779.png" width="600" height=auto border="0" alt="25 treats inside" />
+											</a>
+										</td>
+									</tr>
+		
+									
+									<!-- END Happy & Shipping Images -->
+
+									<!-- Footer -->
+									<tr>
+										<td class="py-30 px-65 mpx-20" style="border-top: 5px solid #ffffff; padding-top: 30px; padding-bottom: 0px; padding-left: 65px; padding-right: 65px;">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="pb-24" align="center" style="padding-bottom: 24px;">
+														<!-- Socials -->
+														<table border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.facebook.com/SuperChewer" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/1d95bd15-c89d-4997-9fba-0cac66d1b457/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://twitter.com/superchewer" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/8a620016-d96c-4cd6-9f73-af72a0e7b90e/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.instagram.com/superchewer" target="_blank">
+
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/c3c78a1a-7c2f-4902-ac34-436be22f4382/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+															<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.tiktok.com/@barkbox" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/19b166ba-991b-4b24-9302-d26eb5e41cf3/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+
+																<td class="img px-16 mpx-10" style="font-size:0pt; line-height:0pt; text-align:left; padding-left: 16px; padding-right: 16px;">
+																	<a href="https://www.youtube.com/barkbox" target="_blank">
+																		<img src="http://cdn.mcauto-images-production.sendgrid.net/9d60a81e987f05f5/e11d5219-3c32-4987-bc1b-8cb3097dccfc/64x64.png" width="26" height="26" border="0" alt="" />
+																	</a>
+																</td>
+															</tr>
+														</table>
+														<!-- END Socials -->
+													</td>
+												</tr>
+												<tr>
+													<td class="text fz-13 lh-20 a-center ff-a c-grey l-grey" style="font-family:Helvetica, Arial, sans-serif, 'Apercu'; font-size: 13px; line-height: 20px; text-align:center; color:#9a9a9a;">
+										 Free Double Deluxe upgrade is valid while supplies last and is applicable to 6- or 12- month plans only for new subscriptions.
+
+													    <br /><br />
+
+												{% include 'MKTG_SC_Footer' %}
+												</tr>
+											</table>
+										</td>
+									</tr>
+									
+									<!-- X-250ok-CID: {{simon.flow_id}} -->
+									
+									<!-- END Footer -->
+
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>
